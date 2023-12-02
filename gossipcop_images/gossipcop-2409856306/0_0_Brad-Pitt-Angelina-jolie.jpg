@@ -1,0 +1,1719 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width,user-scalable=no">
+  <meta name="description" content="Quality news and entertainment stories relevant to readers worldwide."/>
+  <meta name="theme-color" content="#ed1b24"/>
+  <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+  <link rel="shortcut icon" href="https://www.inquisitr.com/favicon.ico"/>
+  <meta property="og:image" content="https://www.inquisitr.com/homepage-thumbnail.png"/>
+  <link rel="alternate" type="application/rss+xml" href="https://www.inquisitr.com/rss"/>
+  <link rel="canonical" href="https://www.inquisitr.com"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="UTF-8">
+  <link rel="manifest" href="configs/manifest.json">
+  <title>THE INQUISITR</title>
+  <link rel="canonical" href="https://cdn.inquisitr.com" />
+  <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+  </script>
+  <script data-schema="Organization" type="application/ld+json">
+    {
+      "name": "INQUISITR",
+      "url": "https://cdn.inquisitr.com",
+      "logo": "https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/inquisitr-logo.png",
+      "sameAs": ["https://www.facebook.com/theinquisitr", "https://twitter.com/theinquisitr",
+        "https://instagram.com/theinquisitr"
+      ],
+      "@type": "Organization",
+      "@context": "http://schema.org"
+    }
+  </script>
+  <script>
+    nodetype = 'home';
+  </script>
+  <link href="//dab57h0r8ahff.cloudfront.net/static/assets/bundle.76cba0.css" rel="stylesheet"><link rel="shortcut icon" href="https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/favicon.ico"/>
+<script>
+  let gtmFired = false;
+  const loadGTM = () => {
+    if (gtmFired) {
+      return;
+    }
+    console.log("Load loadGTM");
+    gtmFired = true;
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js',
+      });
+      const f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l !== 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtag/js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+      w.dataLayer = w.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'UA-51256-5');
+      gtag('config', 'G-BSGX8GYJBR');
+    })(window, document, 'script', 'dataLayer', 'UA-51256-5');
+  };
+  ['mousemove', 'scroll'].forEach((event) =>
+    document.addEventListener(event, loadGTM)
+  );
+</script>
+<!-- Plausibla -->
+<script defer data-domain="inquisitr.com" src="https://plausible.io/js/script.js"></script>
+
+<script data-cfasync="false">
+  var generateClientId = function () {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+      var r = Math.random() * 16 | 0,
+        v = c == 'x' ? r : (r & 0x3 | 0x8);
+      return v.toString(16);
+    });
+  }
+  var getCookie = function (name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+  var setCookie = function (cname, cvalue, expMin) {
+    var d = new Date();
+    d.setTime(d.getTime() + (expMin * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+  }
+  window.getClientId = function () {
+    var _user_id = getCookie("user_id");
+    if (_user_id) {
+      return _user_id;
+    } else {
+      return generateClientId();
+    }
+  }
+  window.getSessionId = function () {
+    var maxAge = 30 * 60; // add 30 min to the current time
+    var _sessionId = getCookie("session_id");
+    if (_sessionId) {
+      return _sessionId;
+    } else {
+      return generateClientId();
+    }
+  }
+  window.user_id = window.getClientId();
+  window.document.cookie = 'user_id=' + window.user_id + ';path=/';
+</script>
+<script>
+  var sess = getCookie("session_id");
+  if (sess && window.influencer) window.document.cookie = 'influ=' + sess + ';path=/';
+  window.articleInfluencer = (window.influencer || (getCookie('influ') && sess === getCookie('influ'))) ? true : false;
+</script>
+
+<script type="text/javascript">!(function(o,_name){function n(){(n.q=n.q||[]).push(arguments)}n.v=1,o[_name]=o[_name]||n;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://equablekettle.com/v2ijd8GfCP3uDeenewmR7TvcT_fFhWxphDjcYR4Q2R0jcxbVR1labpzM",t.parentNode.insertBefore(i,t)})(document,"script");;;!(function(t,n,i,e,o){function a(){for(var t=[],i=0;i<arguments.length;i++)t.push(arguments[i]);if(!t.length)return o;"ping"===t[0]?t[2]({gdprAppliesGlobally:!!n.__cmpGdprAppliesGlobally,cmpLoaded:!1,cmpStatus:"stub"}):t.length>0&&o.push(t)}function c(t){if(t&&t.data&&t.source){var e,o=t.source,a="string"==typeof t.data&&t.data.indexOf("__tcfapiCall")>=0;(e=a?((function(t){try{return JSON.parse(t)}catch(n){}})(t.data)||{}).__tcfapiCall:(t.data||{}).__tcfapiCall)&&n[i](e.command,e.version,(function(t,n){var i={__tcfapiReturn:{returnValue:t,success:n,callId:e.callId}};o&&o.postMessage(a?JSON.stringify(i):i,"*")}),e.parameter)}}!(function f(){if(!window.frames[e]){var n=t.body;if(n){var i=t.createElement("iframe");i.style.display="none",i.name=e,n.appendChild(i)}else setTimeout(f,5)}})(),o=[],a.v=1,"function"!=typeof n[i]&&(n[i]=n[i]||a,n.addEventListener?n.addEventListener("message",c,!1):n.attachEvent&&n.attachEvent("onmessage",c))})(document,window,"__tcfapi","__tcfapiLocator");;!(function(n,t,i,u,e,o,r){function a(n){if(n){var u=(n.data||{}).__uspapiCall;u&&t[i](u.command,u.version,(function(t,i){n.source.postMessage({__uspapiReturn:{returnValue:t,success:i,callId:u.callId}},"*")}))}}!(function f(){if(!window.frames[u]){var t=n.body;if(t){var i=n.createElement("iframe");i.style.display="none",i.name=u,t.appendChild(i)}else setTimeout(f,5)}})();var s={getUSPData:function(n,t){return n!==1?t&&t(null,!1):t&&t({version:null,uspString:null},!1)}};function c(n,t,i){return s[n](t,i)}c.v=1,"function"!=typeof t[i]&&(t[i]=t[i]||c,t.addEventListener?t.addEventListener("message",a,!1):t.attachEvent&&t.attachEvent("onmessage",a)),o=n.createElement(e),r=n.getElementsByTagName(e)[0],o.src="https://equablekettle.com/v2qoa_qzCO_-sJiXNxrD5xLr-wpgzZ2xb9RLLuDBG7iTIbIVire_5Hj6mHzbL3gORNB6Tm45i",r.parentNode.insertBefore(o,r)})(document,window,"__uspapi","__uspapiLocator","script");</script>
+
+<link rel="dns-prefetch" href="//instagram.com">
+<style>
+/* The Modal (background) */
+.mmodal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 99999; /* Sit on top */
+  padding-top: 50%; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(6,64,132,0.8); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.mmodal-ccontent {
+  border-radius: 10px;
+  background-color: #fefefe;
+  margin: auto;
+  border: 1px solid #888;
+  width: 80%;
+}
+</style>
+<style>
+  .drawerWraper {
+    display:  block;
+    background-color: rgba(6,64,132,0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -100;
+    width: 100%;
+    height: 100%;
+  }
+  .drawerContent {
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    transition: 0.5s;
+  }
+</style>
+</head>
+
+<body>
+  <script src="//d68pny6y1rwfr.cloudfront.net/tracker.js"></script>
+  <div class="mw-ham-container">
+
+    <!-- Header -->
+
+    
+
+<script>
+	window.onscroll = function() {alignHeader()};
+	function alignHeader(){
+		if (document.body.scrollTop > 70 || document.documentElement.scrollTop > 70) {
+
+			let alignableItems = document.getElementsByClassName('dalignableItem');
+			for (let i = 0; i < alignableItems.length; i++){
+				alignableItems[i].style.transform="translateY(-70px)";
+				alignableItems[i].style.transform="-webkit-transform: translateY(-70px)";
+			}
+
+			let fadingItems = document.getElementsByClassName('dfadingItem');
+			for (let i = 0; i < fadingItems.length; i++){
+  			fadingItems[i].style.opacity = "0";
+  			fadingItems[i].style.zIndex = "-1";
+			}
+
+			let fixedItems = document.getElementsByClassName('dfixedItem');
+			for (let i = 0; i < fixedItems.length; i++){
+				fixedItems[i].style.transform="translateY(60px)";
+				fixedItems[i].style.transform="-webkit-transform: translateY(60px)";
+			}
+
+			let sidebarItems = document.getElementsByClassName('realsidebar');
+			for (let i = 0; i < sidebarItems.length; i++){
+				sidebarItems[i].style.transform="translateY(70px)";
+				sidebarItems[i].style.transform="-webkit-transform: translateY(70px)";
+			}
+
+			let appearingItems = document.getElementsByClassName('dappearingItem');
+			for (let i = 0; i < appearingItems.length; i++){
+				appearingItems[i].style.opacity = "1";
+				appearingItems[i].style.transform="translateY(0px)";
+				appearingItems[i].style.transform="-webkit-transform: translateY(0px)";
+			}
+
+			let slidingItems = document.getElementsByClassName('dslidingItem');
+			for (let i = 0; i < slidingItems.length; i++)
+				slidingItems[i].style.marginLeft = "-50px";
+		}
+
+		else{
+			let alignableItems = document.getElementsByClassName('alignableItem');
+			for (let i = 0; i < alignableItems.length; i++){
+					alignableItems[i].style.transform="translateY(0px)";
+					alignableItems[i].style.transform="-webkit-transform: translateY(0px)";
+			}
+
+			let fadingItems = document.getElementsByClassName('fadingItem');
+			for (let i = 0; i < fadingItems.length; i++) {
+  			fadingItems[i].style.opacity = "1";
+  			fadingItems[i].style.zIndex = "1";
+			}
+
+			let fixedItems = document.getElementsByClassName('fixedItem');
+			for (let i = 0; i < fixedItems.length; i++){
+				fixedItems[i].style.transform="translateY(0px)";
+				fixedItems[i].style.transform="-webkit-transform: translateY(0px)";
+			}
+
+			let sidebarItems = document.getElementsByClassName('realsidebar');
+			for (let i = 0; i < sidebarItems.length; i++){
+				sidebarItems[i].style.transform="translateY(0px)";
+				sidebarItems[i].style.transform="-webkit-transform: translateY(0px)";
+		}
+		let appearingItems = document.getElementsByClassName('appearingItem');
+		for (let i = 0; i < appearingItems.length; i++){
+			appearingItems[i].style.opacity = "0";
+			appearingItems[i].style.transform="translateY(-60px)";
+			appearingItems[i].style.transform="-webkit-transform: translateY(-60px)";
+		}
+
+		let slidingItems = document.getElementsByClassName('slidingItem');
+		for (let i = 0; i < slidingItems.length; i++)
+			slidingItems[i].style.marginLeft = "-50px";
+	}
+}
+</script>
+
+<!-- Header for Desktop -->
+<header class="container hidden-xs">
+	<div class="container-fluid">
+		<nav class="alignableItem dalignableItem meaww-nav navbar-fixed-top mb50">
+			<div class="headerContainer">
+				<div class="mw-container mxauto">
+					<div class="display-flex space-between" style="padding: 5px 0 5px;">
+						<div class="fadingItem dfadingItem meaww-brand-cont mobile-height" style="float: left;">
+							<a class="meaww-brand meaww_home" href="/">
+								<img src="https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/inquisitr-logo.png" alt="INQUISITR Logo">
+							</a>
+						</div>
+						<div style="margin-top:18px">
+							<div class="toprightContainer display-flex nowrap">
+								<span class="fadingItem dfadingItem">
+									<div class="header-imglinks">
+										<a href="https://www.facebook.com/theinquisitr/" aria-label="link to facebook" target="_blank" rel="nofollow noopener">
+											<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+												<defs>
+													<style>
+														.cls-1{fill:none;stroke:#707070}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#7f7d8b}
+													</style>
+													<clipPath>
+														<path id="Rectangle_2544" d="M0 0h20v20H0z" class="cls-1" data-name="Rectangle 2544" transform="translate(56 624)" />
+													</clipPath>
+												</defs>
+												<g id="Mask_Group_200" class="cls-2" data-name="Mask Group 200" transform="translate(-56 -624)">
+													<g id="Group_3710" data-name="Group 3710" transform="translate(62.364 626.305)">
+														<path id="Path_1341" d="M25.505-125.11v2.054H24v2.512h1.505v7.465H28.6v-7.465h2.075s.194-1.2.288-2.522h-2.354v-1.718a.73.73 0 0 1 .67-.6h1.685V-128h-2.29c-3.245 0-3.168 2.515-3.168 2.89"
+														 class="cls-3" data-name="Path 1341" transform="translate(-24 128)" />
+													</g>
+												</g>
+											</svg>
+										</a>
+									</div>
+								</span>
+								<span class="fadingItem dfadingItem">
+									<div class="header-imglinks">
+										<a href="https://twitter.com/theinquisitr" aria-label="link to twitter" target="_blank" rel="nofollow noopener">
+											<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+												<defs>
+													<style>
+														.cls-1{fill:none;stroke:#707070}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#7f7d8b}
+													</style>
+													<clipPath>
+														<path id="Rectangle_2545" d="M0 0h20v20H0z" class="cls-1" data-name="Rectangle 2545" transform="translate(129 624)" />
+													</clipPath>
+												</defs>
+												<g id="Mask_Group_201" class="cls-2" data-name="Mask Group 201" transform="translate(-129 -624)">
+													<g id="Group_3711" data-name="Group 3711" transform="translate(131.523 627.778)">
+														<path id="Path_1342" d="M33.976-73.966a3.113 3.113 0 0 0 1.412-1.789A7.634 7.634 0 0 1 33.32-75a3.067 3.067 0 0 0-2.339-1 3.185 3.185 0 0 0-2.324.948 3.131 3.131 0 0 0-.946 2.291 2.292 2.292 0 0 0 .1.72 8.706 8.706 0 0 1-6.711-3.374 3.252 3.252 0 0 0-.449 1.624 3.137 3.137 0 0 0 1.449 2.716 3.6 3.6 0 0 1-1.447-.413 3.227 3.227 0 0 0 .721 2.1 3.186 3.186 0 0 0 1.86 1.135 3.469 3.469 0 0 1-.861.1 1.613 1.613 0 0 1-.584-.073 3.107 3.107 0 0 0 1.138 1.626 3.212 3.212 0 0 0 1.893.653 6.334 6.334 0 0 1-4.026 1.374 5.455 5.455 0 0 1-.794-.036 8.961 8.961 0 0 0 4.992 1.45 8.859 8.859 0 0 0 4.99-1.43 8.949 8.949 0 0 0 3.2-3.5 9.472 9.472 0 0 0 1.031-4.3v-.411a6.849 6.849 0 0 0 1.618-1.689 7.161 7.161 0 0 1-1.855.523z"
+														 class="cls-3" data-name="Path 1342" transform="translate(-20 76)" />
+													</g>
+												</g>
+											</svg>
+										</a>
+									</div>
+								</span>
+								<span class="fadingItem dfadingItem">
+									<div class="header-imglinks">
+										<a href="https://instagram.com/theinquisitr" aria-label="link to instagram" target="_blank" rel="nofollow noopener">
+											<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+												<defs>
+													<style>
+														.cls-7,.cls-8{fill:none}.cls-7{stroke:#707070}.cls-2{clip-path:url(#clip-path)}.cls-4{fill:#7f7d8b;fill-rule:evenodd}
+													</style>
+													<clipPath>
+														<path id="Rectangle_2547" d="M0 0h20v20H0z" class="cls-7" data-name="Rectangle 2548" transform="translate(275 624)"/>
+													</clipPath>
+												</defs>
+												<g id="Mask_Group_203" class="cls-2" data-name="Mask Group 203" transform="translate(-275 -624)">
+													<g id="Group_3713" data-name="Group 3713" transform="translate(276.792 625.747)">
+														<g id="iconfinder_Instagram_1298747_1_" data-name="iconfinder_Instagram_1298747 (1)">
+															<g id="Instagram_1_">
+																<path id="Rectangle_2547" d="M0 0h16.384v16.384H0z" class="cls-8" data-name="Rectangle 2547"/>
+																<path id="Instagram" d="M13.548 3.819a.983.983 0 1 1-.983-.983.983.983 0 0 1 .983.983zm-5.356 7.1a2.731 2.731 0 1 1 2.731-2.731 2.731 2.731 0 0 1-2.731 2.734zm0-6.937a4.207 4.207 0 1 0 4.208 4.21 4.207 4.207 0 0 0-4.208-4.207zm0-2.509c2.187 0 2.446.008 3.31.048a4.531 4.531 0 0 1 1.521.282 2.538 2.538 0 0 1 .942.613 2.536 2.536 0 0 1 .613.942 4.535 4.535 0 0 1 .282 1.521c.039.864.048 1.123.048 3.31s-.008 2.446-.048 3.31a4.532 4.532 0 0 1-.282 1.521 2.713 2.713 0 0 1-1.555 1.555 4.535 4.535 0 0 1-1.521.282c-.864.039-1.123.048-3.31.048s-2.447-.008-3.31-.048a4.531 4.531 0 0 1-1.521-.282 2.538 2.538 0 0 1-.942-.613 2.538 2.538 0 0 1-.613-.942 4.535 4.535 0 0 1-.282-1.52c-.039-.864-.048-1.123-.048-3.31s.008-2.446.048-3.31a4.531 4.531 0 0 1 .282-1.521 2.538 2.538 0 0 1 .613-.942 2.536 2.536 0 0 1 .942-.613 4.535 4.535 0 0 1 1.521-.282c.863-.038 1.118-.046 3.31-.046zm0-1.473c-2.225 0-2.5.009-3.377.049A6.013 6.013 0 0 0 2.826.43a4.014 4.014 0 0 0-1.451.945A4.014 4.014 0 0 0 .43 2.826a6.013 6.013 0 0 0-.381 1.988C.009 5.688 0 5.967 0 8.192s.009 2.5.049 3.377a6.013 6.013 0 0 0 .381 1.989 4.014 4.014 0 0 0 .945 1.451 4.016 4.016 0 0 0 1.451.945 6.013 6.013 0 0 0 1.988.381c.874.04 1.153.049 3.377.049s2.5-.009 3.377-.049a6.013 6.013 0 0 0 1.988-.381 4.189 4.189 0 0 0 2.4-2.4 6.013 6.013 0 0 0 .381-1.988c.04-.874.049-1.153.049-3.377s-.009-2.5-.049-3.377a6.013 6.013 0 0 0-.381-1.988 4.016 4.016 0 0 0-.945-1.451A4.016 4.016 0 0 0 13.558.43a6.013 6.013 0 0 0-1.989-.381C10.7.009 10.416 0 8.192 0z" class="cls-4"/>
+															</g>
+														</g>
+													</g>
+												</g>
+											</svg>
+										</a>
+									</div>
+								</span>
+
+								<div class="fixedItem dfixedItem search-and-ham">
+									<div id="hamBarContainer" class="meaww-brand-cont meaww-ham pull-right hamburger hambarger_bars-container_ga">
+										<div id="bar1" class="bar"></div>
+										<div id="bar2" class="bar"></div>
+										<div id="bar3" class="bar"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="mw-container header-bottom-container mxauto">
+					<a href="/" class="appearingItem dappearingItem display-inline-block pr35 py10">
+						
+					</a>
+						<ul class="meaww-categories mb0 display-inline-block slidingItem dslidingItem">
+							<li class="uppercase display-inline-block"><a class="display-inline-block news " href="/entertainment">
+								ENTERTAINMENT
+								</a></li>
+							<li class="uppercase display-inline-block"><a class="display-inline-block entertainment " href="/news-politics">
+								NEWS & POLITICS
+								</a></li>
+							<li class="uppercase display-inline-block"><a class="display-inline-block celebrity " href="/sports">
+								SPORTS
+								</a></li>
+							<li class="uppercase display-inline-block"><a class="display-inline-block celebrity " href="/health-lifestyle">
+								HEALTH & LIFESTYLE
+								</a></li>
+							<li class="uppercase display-inline-block"><a class="display-inline-block news " href="/science-tech">
+								SCIENCE & TECH
+								</a></li>
+						</ul>
+				</div>
+			</div>
+		</nav>
+		<aside class="sidebar-ham fixed hambarger-container_ga ">
+			<div>
+				<div class="sidebar-top pt30 px15 display-flex nowrap flex-end">
+					<div class="meaww-ham">
+						<img src="https://d15pn4sjte4r7g.cloudfront.net/v4/assets/inquisitr_cross.svg" alt="Search Cross" style="vertical-align:baseline; height: 20px; width: 20px; object-fit: contain;">
+					</div>
+				</div>
+				<nav class="nav">
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/entertainment">ENTERTAINMENT</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/news-politics">NEWS & POLITICS</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/sports">SPORTS</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/health-lifestyle">HEALTH & LIFESTYLE</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/science-tech">SCIENCE & TECH</a>
+					</h3>
+					<div class="sidebar-separator"></div>
+					<div class="accordionItemContent">
+						<ul class="nav-items">
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/about-us" class="light-gray ">About Us</a></li>
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/privacy" class="light-gray ">Privacy Policy</a></li>
+							<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/terms" class="light-gray ">Terms Of Use</a></li>
+							<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/dmca" class="light-gray ">DMCA</a></li>
+						</ul>
+					</div>
+					<div class="sidebar-separator"></div>
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center light-gray uppercase accordionItemHeading">
+						Subscribe
+					</h3>
+					<div class="accordionItemContent">
+						<ul class="nav-items">
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="https://twitter.com/theinquisitr" aria-label="link to twitter" class="light-gray" target="_blank" rel="nofollow noopener">Twitter</a></li>
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="https://www.facebook.com/theinquisitr/" aria-label="link to facebook" class="light-gray" target="_blank" rel="nofollow noopener">Facebook</a></li>
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="https://instagram.com/theinquisitr" class="light-gray" aria-label="link to instagram" target="_blank" rel="nofollow noopener">Instagram</a></li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</aside>
+	</div>
+</header>
+
+<script>
+	function copylinkToClipboard() {
+		let link = '';
+		if (typeof meta !== 'undefined' && meta.article_name) {
+			link = `https://www.inquisitr.com/${meta.article_name}`;
+		} else {
+			link = `https://inquisitr.com`;
+		}
+		navigator.clipboard.writeText(link);
+	}
+</script>
+
+<!-- Header for Mobile -->
+<header class="container visible-xs">
+	<div class="container-fluid">
+		<nav class="alignableItem  meaww-nav navbar-fixed-top">
+			<div class="header-container pb0" style="height: 62px;">
+				<div class="fixedItem display-flex" style="margin-left:12px; padding: 2px 0 0;">
+					<div id="hamBarContainer" class="meaww-brand-cont meaww-ham pull-left hamburger hambarger_bars-container_ga" style="border-radius: 0px; margin-top: 12px;">
+						<div id="bar1" class="bar"></div>
+						<div id="bar2" class="bar"></div>
+						<div id="bar3" class="bar"></div>
+					</div>
+					<div class="meaww-brand-cont mobile-height" style="margin-left: 10px;">
+						<a class="meaww-brand meaww_home" href="/">
+							<img src="https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/inquisitr-logo.png" alt="INQUISITR Logo">
+						</a>
+					</div>
+				</div>
+				<div class="fadingItem header-bottom-container" style="padding: 10px 0px; display: block;background-color: #fff;background-color: #fff; box-shadow: 0px 8px 10.25px -2.25px rgb(182 199 221 / 30%); padding-bottom: 0px;">
+					<ul class="meaww-categories main-header-categories mb0">
+						<li class="uppercase display-inline-block" style="margin-left: 21px;">
+							<a style="color: #000" class="display-inline-block category-highlight" href="/entertainment">
+								ENTERTAINMENT
+							</a></li>
+						<li class="uppercase display-inline-block"><a style="color: #000" class="display-inline-block celebrity " href="/news-politics">
+								NEWS & POLITICS
+							</a></li>
+						<li class="uppercase display-inline-block"><a style="color: #000" class="display-inline-block entertainment " href="sports">
+								SPORTS
+							</a></li>
+						<li class="uppercase display-inline-block"><a style="color: #000" class="display-inline-block movies " href="health-lifestyle">
+								HEALTH & LIFESTYLE
+							</a></li>
+						<li class="uppercase display-inline-block"><a style="color: #000" class="display-inline-block music " href="/science-tech">
+								SCIENCE & TECH
+							</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<aside class="sidebar-ham fixed sidebar-ham-mobile h100p hambarger-container_ga">
+			<div>
+				<div class="sidebar-top display-flex nowrap space-between mob-pt30 mob-px15">
+					<div class="meaww-ham">
+						<img src="https://d15pn4sjte4r7g.cloudfront.net/v4/assets/inquisitr_cross.svg" alt="Search Cross" style="vertical-align:baseline; height: 20px; width: 20px; object-fit: contain;">
+					</div>
+					<div class="meaww-brand-cont mobile-height">
+						<a class="meaww-brand meaww_home" href="/">
+							<img src="https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/inquisitr-logo.png" alt="INQUISITR Logo">
+						</a>
+					</div>
+					<div class="meaww-ham mobile-search-icon fixxx" style="visibility: hidden;">
+						<span id="search-icon" class="search-icon">
+							<img src="https://dab57h0r8ahff.cloudfront.net/v3/assets/search-icon.svg" alt="search icon">
+						</span>
+					</div>
+				</div>
+				<nav class="nav display-flex flex-column space-between h10vh mx0 my0">
+					<h3 class="nav-link font-MaisonNeue-Demi mb0 mt0 f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/entertainment">ENTERTAINMENT</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi mb0 mt0 f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/news-politics">NEWS & POLITICS</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi mb0 mt0 f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/sports">SPORTS</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi mb0 mt0 f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/health-lifestyle">HEALTH & LIFESTYLE</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi mb0 mt0 f16 lh3p5 text-center uppercase accordionItemHeading">
+						<a href="/science-tech">SCIENCE & TECH</a>
+					</h3>
+					<h3 class="nav-link font-MaisonNeue-Demi f16 lh3p5 text-center light-gray uppercase accordionItemHeading">Learn More</h3>
+					<div class="accordionItemContent">
+						<ul class="nav-items">
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/about-us" class="light-gray ">About Us</a></li>
+								<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/privacy" class="light-gray ">Privacy Policy</a></li>
+							<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/terms" class="light-gray ">Terms Of Use</a></li>
+							<li class="nav-link font-MaisonNeue-Medium f12 light-gray lh3p5 text-center uppercase px10"><a href="/page/dmca" class="light-gray ">DMCA</a></li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</aside>
+	</div>
+</header>
+<script>
+
+var accItem = document.getElementsByClassName('accordionItem');
+var accHD = document.getElementsByClassName('accordionItemHeading');
+
+for (i = 0; i < accHD.length; i++) {
+		accHD[i].addEventListener('click', toggleItem, false);
+}
+function toggleItem() {
+	var itemClass = this.parentNode.className;
+	for (i = 0; i < accItem.length; i++) {
+			accItem[i].className = 'accordionItem close';
+	}
+	if (itemClass == 'accordionItem close') {
+			this.parentNode.className = 'accordionItem open';
+	}
+}
+
+
+let vh = window.innerHeight* 0.01;
+document.documentElement.style.setProperty('--vh', `${vh}px`);
+
+</script>
+
+
+    <!-- Header -->
+
+
+    
+    <div class="main">
+      <div class="container category-container row page-content-wrapper scroll-top-dependent-element">
+        <div class="main-content mob-320-pad col-sm-8 col-xs-12">
+          
+          
+            
+                
+<div class="col-sm-12 mob-mx-15 px0 mob-mb25 cover-article_ga ">
+  <div class="row mob-nomargin desk-nomargin">
+    <div class="category-header">
+      <div class="col-sm-12 px0">
+        <div class="mob-mt10 article-container_ga" data-articleType="" data-position="0" data-articleid="626619" data-articleTitle="Jennifer Aniston Annoyed Her &#39;Friends&#39;  Co-stars David Schwimmer &amp; Lisa Kudrow With This Bad Habit" >
+            <div id="article-new-design-small">
+                
+                <div class="pl0 mt0">
+                    <a href="//cdn.inquisitr.com/jennifer-aniston-annoyed-her-friends-co-stars-with-this-bad-habit" aria-label="link to article">
+                      <img src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626619/uploads/be6a7630-05bd-11ee-9ea1-4d9226b5f06d_800_420.jpeg" alt="" class="lazyload img-responsive css-width__full card-border-radius">
+                    </a>
+                </div>
+                <div class="relative top-40 background-white mx5p mob-mx15 mb-28 mob-mb-60 py10 px20 mob-px15 br2">
+                    <a href="//cdn.inquisitr.com/jennifer-aniston-annoyed-her-friends-co-stars-with-this-bad-habit" aria-label="link to article">
+                        <h3 class="text-center font-kepler f32 lh1p09 mt8 mb8 mob-mb0 mob-f28 mob-lh1p17 weight-bold">Jennifer Aniston Annoyed Her &#39;Friends&#39;  Co-stars David Schwimmer &amp; Lisa Kudrow With This Bad Habit</h3>
+                        <p class="text-center font-MaisonNeue-Book f14 light-gray mob-pt20 mob-mb13">Despite the annoyance caused by Aniston&#39;s habit, they found a resolution and continued creating the iconic show.... </p>
+                        
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="divider-lightgray display-flex w100p "></div>
+
+                <div class="clearfix"></div>
+            
+            
+              
+              <div class="col-xs-12 mt30 mob-mt0 pl0 latest latest-cover featured-showcase_ga">
+                <fieldset class="category-header">
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="625862" data-articleTitle="When &#39;Potterhead&#39; Johnny Depp Agreed to Play Grindelwald Without Reading the Script" >
+    <a href="//cdn.inquisitr.com/when-potterhead-johnny-depp-agreed-to-play-grindelwald-without-the-script" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/625862/uploads/15fc5a80-01cc-11ee-bd94-1312b346724a_450_250.jpeg" alt="When &#39;Potterhead&#39; Johnny Depp Agreed to Play Grindelwald Without Reading the Script"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          When &#39;Potterhead&#39; Johnny Depp Agreed to Play Grindelwald Without Reading the Script
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Depp had played Gellert Grindelwald in two installments of  &#39;Fantastic Beasts&#39; &#39;because of J.K. Rowling&#39;.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">4h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626910" data-articleTitle="Mariah Carey Sells Her Massive Atlanta Area Mansion at $1.35 Million Loss, But She Seems Pleased" >
+    <a href="//cdn.inquisitr.com/mariah-careys-atlanta-mansion-sold-at-a-loss-goes-for-4-3-million" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626910/uploads/406798e0-05fd-11ee-a7ff-5d2c9848c9ea_450_250.png" alt="Mariah Carey Sells Her Massive Atlanta Area Mansion at $1.35 Million Loss, But She Seems Pleased"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Mariah Carey Sells Her Massive Atlanta Area Mansion at $1.35 Million Loss, But She Seems Pleased
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Mariah Carey successfully sold her remarkable Atlanta property at the end of May.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">4h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626113" data-articleTitle="Jennifer Aniston&#39;s Lush Garden Was Seen in Her Instagram Post Where She Paid Homage to Her Dog &#39;Dolly&#39;" >
+    <a href="//cdn.inquisitr.com/jennifer-aniston-showed-her-serene-garden-in-a-tributary-post-to-her-dog" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626113/uploads/c85626d0-036a-11ee-89c0-dd752d7d8912_450_250.png" alt="Jennifer Aniston&#39;s Lush Garden Was Seen in Her Instagram Post Where She Paid Homage to Her Dog &#39;Dolly&#39;"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Jennifer Aniston&#39;s Lush Garden Was Seen in Her Instagram Post Where She Paid Homage to Her Dog &#39;Dolly&#39;
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Jennifer Aniston shares a glimpse of her garden in a sweet tribute to her dog &#39;Dolly&#39; who passed away.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">4h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627234" data-articleTitle="Kim Kardashian Says Mom Kris Jenner Feels &#39;Sad&#39; About Pushing Her Kids Into &#39;Fame&#39;: &#34;No One&#39;s Easily Happy&#34; " >
+    <a href="//cdn.inquisitr.com/kim-kardashian-says-kris-jenner-feels-sad-about-pushing-her-kids-into-fame" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627234/uploads/c91226e0-0767-11ee-a4b9-07fa1a57a6b3_450_250.jpeg" alt="Kim Kardashian Says Mom Kris Jenner Feels &#39;Sad&#39; About Pushing Her Kids Into &#39;Fame&#39;: &#34;No One&#39;s Easily Happy&#34; "  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Kim Kardashian Says Mom Kris Jenner Feels &#39;Sad&#39; About Pushing Her Kids Into &#39;Fame&#39;: &#34;No One&#39;s Easily Happy&#34; 
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Kim shared that her mom, Kris, sometimes contemplates, &#34;fame has done them more harm than good.&#34;</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">15h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+                    </fieldset>
+                  </div>
+                  
+          
+            
+                
+<div class="col-sm-12 mob-mx-15 px0 mob-mb25 cover-article_ga ">
+  <div class="row mob-nomargin desk-nomargin">
+    <div class="category-header">
+      <div class="col-sm-12 px0">
+        <div class="mob-mt10 article-container_ga" data-articleType="" data-position="0" data-articleid="627097" data-articleTitle="Amy Roloff From &#39;Little People&#39; Opens Up About Being Afraid That Her Body Couldn&#39;t Carry Twins Jeremy, Zach" >
+            <div id="article-new-design-small">
+                
+                <div class="pl0 mt0">
+                    <a href="//cdn.inquisitr.com/little-peoples-amy-roloff-gets-honest-about-infertility-pregnancy-anxities" aria-label="link to article">
+                      <img src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627097/uploads/45509750-06b9-11ee-9c3d-e343351ae9df_800_420.png" alt="" class="lazyload img-responsive css-width__full card-border-radius">
+                    </a>
+                </div>
+                <div class="relative top-40 background-white mx5p mob-mx15 mb-28 mob-mb-60 py10 px20 mob-px15 br2">
+                    <a href="//cdn.inquisitr.com/little-peoples-amy-roloff-gets-honest-about-infertility-pregnancy-anxities" aria-label="link to article">
+                        <h3 class="text-center font-kepler f32 lh1p09 mt8 mb8 mob-mb0 mob-f28 mob-lh1p17 weight-bold">Amy Roloff From &#39;Little People&#39; Opens Up About Being Afraid That Her Body Couldn&#39;t Carry Twins Jeremy, Zach</h3>
+                        <p class="text-center font-MaisonNeue-Book f14 light-gray mob-pt20 mob-mb13">Amy openly shared the challenges she faced while bringing her four children into the world.... </p>
+                        
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="divider-lightgray display-flex w100p "></div>
+
+                <div class="clearfix"></div>
+            
+            
+              
+              <div class="col-xs-12 mt30 mob-mt0 pl0 latest latest-cover featured-showcase_ga">
+                <fieldset class="category-header">
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627109" data-articleTitle="Lady Gaga Shares Bare-Faced Selfies for the Launch of Her Beauty Line" >
+    <a href="//cdn.inquisitr.com/lady-gaga-shows-off-her-bare-faced-looks-for-the-launch-of-her-beauty-line" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627109/uploads/c28bfcc0-06b7-11ee-9af0-77db992920f0_450_250.jpeg" alt="Lady Gaga Shares Bare-Faced Selfies for the Launch of Her Beauty Line"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Lady Gaga Shares Bare-Faced Selfies for the Launch of Her Beauty Line
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">The &#39;Applause&#39; songstress celebrated the launch of her beauty line Haus Lab in the UK with bed-head selfies.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">21h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627108" data-articleTitle="The Kardashian Baby Cousins Unite to Celebrate Graduation Day in Fashionable Outfits" >
+    <a href="//cdn.inquisitr.com/inside-kardashian-baby-cousins-fashionable-graduation-party" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627108/uploads/04193da0-06be-11ee-a338-a3349e133b00_450_250.jpeg" alt="The Kardashian Baby Cousins Unite to Celebrate Graduation Day in Fashionable Outfits"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          The Kardashian Baby Cousins Unite to Celebrate Graduation Day in Fashionable Outfits
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">The three Kardashian baby cousins were photographed wearing chic fashion to their preschool graduation day. </p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">21h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627182" data-articleTitle="&#39;Sister Wives&#39; Star Christine Brown Reveals Results of Her Diet, Says She Wants to Lose 20 Lbs Before Wedding" >
+    <a href="//cdn.inquisitr.com/sister-wives-christine-brown-goes-on-intense-diet-ahead-of-her-wedding" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627182/uploads/07523430-0750-11ee-969f-1d822133aa1c_450_250.png" alt="&#39;Sister Wives&#39; Star Christine Brown Reveals Results of Her Diet, Says She Wants to Lose 20 Lbs Before Wedding"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          &#39;Sister Wives&#39; Star Christine Brown Reveals Results of Her Diet, Says She Wants to Lose 20 Lbs Before Wedding
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Christine Brown shared the results of an intense diet as she targets to lose 20 more pounds before her wedding.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">21h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627187" data-articleTitle="Charlie Sheen and Denise Richards&#39; Daughter Sami Talks About Her &#39;Bold&#39; Job Ahead of Breast Augmentation" >
+    <a href="//cdn.inquisitr.com/charlie-sheen-and-denise-richards-daughter-sami-plans-new-bold-job" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627187/uploads/40d2a150-075e-11ee-ac39-83a0be06cf0c_450_250.png" alt="Charlie Sheen and Denise Richards&#39; Daughter Sami Talks About Her &#39;Bold&#39; Job Ahead of Breast Augmentation"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Charlie Sheen and Denise Richards&#39; Daughter Sami Talks About Her &#39;Bold&#39; Job Ahead of Breast Augmentation
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">The 19-year-old OnlyFans member expressed her enthusiasm for an upcoming &#34;big reveal&#34; in the future.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">23h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+                    </fieldset>
+                  </div>
+                  
+          
+            
+                
+<div class="col-sm-12 mob-mx-15 px0 mob-mb25 cover-article_ga ">
+  <div class="row mob-nomargin desk-nomargin">
+    <div class="category-header">
+      <div class="col-sm-12 px0">
+        <div class="mob-mt10 article-container_ga" data-articleType="" data-position="0" data-articleid="626984" data-articleTitle="When Justin Bieber Called Ex-GF Selena Gomez &#39;Out of Control&#39; &amp; Said She Was Always Drunk at Parties" >
+            <div id="article-new-design-small">
+                
+                <div class="pl0 mt0">
+                    <a href="//cdn.inquisitr.com/justin-bieber-called-ex-selena-gomez-out-of-control-said-shes-always-drunk" aria-label="link to article">
+                      <img src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626984/uploads/b18616c0-0696-11ee-9204-3f5e4a4e7d61_800_420.png" alt="" class="lazyload img-responsive css-width__full card-border-radius">
+                    </a>
+                </div>
+                <div class="relative top-40 background-white mx5p mob-mx15 mb-28 mob-mb-60 py10 px20 mob-px15 br2">
+                    <a href="//cdn.inquisitr.com/justin-bieber-called-ex-selena-gomez-out-of-control-said-shes-always-drunk" aria-label="link to article">
+                        <h3 class="text-center font-kepler f32 lh1p09 mt8 mb8 mob-mb0 mob-f28 mob-lh1p17 weight-bold">When Justin Bieber Called Ex-GF Selena Gomez &#39;Out of Control&#39; &amp; Said She Was Always Drunk at Parties</h3>
+                        <p class="text-center font-MaisonNeue-Book f14 light-gray mob-pt20 mob-mb13">This bickering eventually led them to be in an on-and-off relationship that eventually ended in a disaster.... </p>
+                        
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="divider-lightgray display-flex w100p "></div>
+
+                <div class="clearfix"></div>
+            
+            
+              
+              <div class="col-xs-12 mt30 mob-mt0 pl0 latest latest-cover featured-showcase_ga">
+                <fieldset class="category-header">
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626981" data-articleTitle=" Jimmy Butler&#39;s Obsession With Popstar Miley Cyrus Once Drove His Teammates to a Breaking Point" >
+    <a href="//cdn.inquisitr.com/jimmy-butlers-thing-for-miley-cyrus-pushed-his-teamates-to-a-breaking-point" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626981/uploads/97b8f6c0-06b6-11ee-8f42-6f8f435c266a_450_250.png" alt=" Jimmy Butler&#39;s Obsession With Popstar Miley Cyrus Once Drove His Teammates to a Breaking Point"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+           Jimmy Butler&#39;s Obsession With Popstar Miley Cyrus Once Drove His Teammates to a Breaking Point
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">There was a time when Jimmy Butler&#39;s obsessive crush on Miley Cyrus pushed his entire team to a breaking point.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">24h ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627130" data-articleTitle="Shakira and Lewis Hamilton Are Just Beginning Their Relationship: &#34;It&#39;s Fun and Flirty&#34;" >
+    <a href="//cdn.inquisitr.com/lewis-hamilton-and-shakira-are-just-starting-to-date-its-fun-and-flirty" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627130/uploads/7ea7f470-06ce-11ee-beae-c57e61f65daa_450_250.png" alt="Shakira and Lewis Hamilton Are Just Beginning Their Relationship: &#34;It&#39;s Fun and Flirty&#34;"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Shakira and Lewis Hamilton Are Just Beginning Their Relationship: &#34;It&#39;s Fun and Flirty&#34;
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">A source revealed that Lewis Hamilton and Shakira are in the beginning stages of their relationship.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626919" data-articleTitle="Netflix’s ‘Black Mirror’ Creator Writes an Episode After Using AI Bot: &#39;ChatGPT is Sh**&#39;" >
+    <a href="//cdn.inquisitr.com/netflixs-black-mirror-creator-writes-an-episode-after-using-ai-bot" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626919/uploads/a036aa00-0688-11ee-ab7f-bf640faca537_450_250.jpeg" alt="Netflix’s ‘Black Mirror’ Creator Writes an Episode After Using AI Bot: &#39;ChatGPT is Sh**&#39;"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Netflix’s ‘Black Mirror’ Creator Writes an Episode After Using AI Bot: &#39;ChatGPT is Sh**&#39;
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Charlie Brooker revealed ChatGPT just mixed up the synopsis of previous episodes and lacked originality.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627048" data-articleTitle="Selena Gomez Screams &#39;I&#39;m Single&#39; While Flirting With Soccer Players: &#39;I&#39;m just a little high maintenance&#39;" >
+    <a href="//cdn.inquisitr.com/selena-gomez-shouts-im-single-while-flirting-with-soccer-players-in-new-clip" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627048/uploads/b9657440-06c2-11ee-8a7c-33781b9d16d0_450_250.jpeg" alt="Selena Gomez Screams &#39;I&#39;m Single&#39; While Flirting With Soccer Players: &#39;I&#39;m just a little high maintenance&#39;"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Selena Gomez Screams &#39;I&#39;m Single&#39; While Flirting With Soccer Players: &#39;I&#39;m just a little high maintenance&#39;
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Selena tried to charm the players by screaming, &#34;I&#39;m just a little high maintenance, but I&#39;ll love you so much.&#34;</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+                    </fieldset>
+                  </div>
+                  
+          
+            
+                
+<div class="col-sm-12 mob-mx-15 px0 mob-mb25 cover-article_ga ">
+  <div class="row mob-nomargin desk-nomargin">
+    <div class="category-header">
+      <div class="col-sm-12 px0">
+        <div class="mob-mt10 article-container_ga" data-articleType="" data-position="0" data-articleid="627023" data-articleTitle="Kanye West Snubbed by Entire Kardashian-Jenner Clan on His 46th Birthday" >
+            <div id="article-new-design-small">
+                
+                <div class="pl0 mt0">
+                    <a href="//cdn.inquisitr.com/kanye-west-snubbed-by-entire-kardashian-jenner-clan-on-his-46th-birthday" aria-label="link to article">
+                      <img src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627023/uploads/88e73630-0692-11ee-9865-010464a1a2dd_800_420.jpeg" alt="" class="lazyload img-responsive css-width__full card-border-radius">
+                    </a>
+                </div>
+                <div class="relative top-40 background-white mx5p mob-mx15 mb-28 mob-mb-60 py10 px20 mob-px15 br2">
+                    <a href="//cdn.inquisitr.com/kanye-west-snubbed-by-entire-kardashian-jenner-clan-on-his-46th-birthday" aria-label="link to article">
+                        <h3 class="text-center font-kepler f32 lh1p09 mt8 mb8 mob-mb0 mob-f28 mob-lh1p17 weight-bold">Kanye West Snubbed by Entire Kardashian-Jenner Clan on His 46th Birthday</h3>
+                        <p class="text-center font-MaisonNeue-Book f14 light-gray mob-pt20 mob-mb13">The Kardashian-Jenner clan&#39;s social media handles carried no &#39;updates&#39; or &#39;wishes&#39; for West throughout the day.... </p>
+                        
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="divider-lightgray display-flex w100p "></div>
+
+                <div class="clearfix"></div>
+            
+            
+              
+              <div class="col-xs-12 mt30 mob-mt0 pl0 latest latest-cover featured-showcase_ga">
+                <fieldset class="category-header">
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627057" data-articleTitle="Megan Fox Supports Machine Gun Kelly At His Concert In Germany Amid Relationship Reconciliation Rumors" >
+    <a href="//cdn.inquisitr.com/megan-fox-supports-mgk-at-germany-concert-as-they-work-on-their-relationship" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627057/uploads/38664780-06ad-11ee-8ae4-a9fe61bd272e_450_250.jpeg" alt="Megan Fox Supports Machine Gun Kelly At His Concert In Germany Amid Relationship Reconciliation Rumors"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Megan Fox Supports Machine Gun Kelly At His Concert In Germany Amid Relationship Reconciliation Rumors
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Fox&#39;s presence in Germany at Kelly&#39;s concert undoubtedly indicates that their romance is thriving.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="627002" data-articleTitle="P!nk Gets Emotional As Daughter Willow Sings &#39;Cover Me in Sunshine&#39; On Opening Night Of Her Tour" >
+    <a href="//cdn.inquisitr.com/p-n-ks-daughter-willow-joins-her-onstage-at-opening-night-of-her-tour" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/627002/uploads/03d80d60-06a7-11ee-a316-5be2fad6ef52_450_250.png" alt="P!nk Gets Emotional As Daughter Willow Sings &#39;Cover Me in Sunshine&#39; On Opening Night Of Her Tour"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          P!nk Gets Emotional As Daughter Willow Sings &#39;Cover Me in Sunshine&#39; On Opening Night Of Her Tour
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">P!nk&#39;s daughter Willow Sage Hart graced the stage alongside her mother at Summer Carnival 2023 tour.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626980" data-articleTitle="Kourtney Kardashian Looks Stunning in Throwback Pictures From Her Italian Vacay" >
+    <a href="//cdn.inquisitr.com/kourtney-kardashian-shares-throwback-pictures-from-her-italian-family-trip" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626980/uploads/d169e890-06aa-11ee-8b80-e721c72cabda_450_250.jpeg" alt="Kourtney Kardashian Looks Stunning in Throwback Pictures From Her Italian Vacay"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Kourtney Kardashian Looks Stunning in Throwback Pictures From Her Italian Vacay
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Kourtney Kardashian shared a trip through memory lane reflecting on her trip to Italy with her children in Portofino, Italy.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626770" data-articleTitle="Mama June Sparks Concern as She &#39;Eats Her Feelings&#39; While Having a Meal With Her Husband" >
+    <a href="//cdn.inquisitr.com/mama-june-eats-her-feelings-in-a-new-sneak-peek-of-the-next-episode" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626770/uploads/79aabd40-05bb-11ee-96d0-6ff5dbb8b1d5_450_250.png" alt="Mama June Sparks Concern as She &#39;Eats Her Feelings&#39; While Having a Meal With Her Husband"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Mama June Sparks Concern as She &#39;Eats Her Feelings&#39; While Having a Meal With Her Husband
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Mama June&#39;s recent hankering for food sparks concern as she is revealed to be &#39;eating her feelings&#39;.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">1d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+                    </fieldset>
+                  </div>
+                  
+          
+            
+                
+<div class="col-sm-12 mob-mx-15 px0 mob-mb25 cover-article_ga ">
+  <div class="row mob-nomargin desk-nomargin">
+    <div class="category-header">
+      <div class="col-sm-12 px0">
+        <div class="mob-mt10 article-container_ga" data-articleType="" data-position="0" data-articleid="626992" data-articleTitle="Chris Hemsworth Says He Was Confronted by Thoughts of Death Post Jeremy Renner&#39;s Snow Plow Accident" >
+            <div id="article-new-design-small">
+                
+                <div class="pl0 mt0">
+                    <a href="//cdn.inquisitr.com/chris-hemsworth-questioned-mortality-after-pal-jeremy-renners-accident" aria-label="link to article">
+                      <img src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626992/uploads/776595e0-0684-11ee-9a84-95b15703a20b_800_420.jpeg" alt="" class="lazyload img-responsive css-width__full card-border-radius">
+                    </a>
+                </div>
+                <div class="relative top-40 background-white mx5p mob-mx15 mb-28 mob-mb-60 py10 px20 mob-px15 br2">
+                    <a href="//cdn.inquisitr.com/chris-hemsworth-questioned-mortality-after-pal-jeremy-renners-accident" aria-label="link to article">
+                        <h3 class="text-center font-kepler f32 lh1p09 mt8 mb8 mob-mb0 mob-f28 mob-lh1p17 weight-bold">Chris Hemsworth Says He Was Confronted by Thoughts of Death Post Jeremy Renner&#39;s Snow Plow Accident</h3>
+                        <p class="text-center font-MaisonNeue-Book f14 light-gray mob-pt20 mob-mb13">The &#39;Thor&#39; star says he&#39;s getting older and the reality of &#39;not going to be here forever&#39; is sinking in.... </p>
+                        
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="divider-lightgray display-flex w100p "></div>
+
+                <div class="clearfix"></div>
+            
+            
+              
+              <div class="col-xs-12 mt30 mob-mt0 pl0 latest latest-cover featured-showcase_ga">
+                <fieldset class="category-header">
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626630" data-articleTitle="When Mariah Carey Said That She &#39;Didn&#39;t Know&#39; Who Jennifer Lopez Was" >
+    <a href="//cdn.inquisitr.com/mariah-carey-once-said-that-she-didnt-know-who-jennifer-lopez-was" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626630/uploads/571fbc50-050f-11ee-9ee1-4fd1c9b83340_450_250.jpeg" alt="When Mariah Carey Said That She &#39;Didn&#39;t Know&#39; Who Jennifer Lopez Was"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          When Mariah Carey Said That She &#39;Didn&#39;t Know&#39; Who Jennifer Lopez Was
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Many interpreted Carey&#39;s comment as a sign of pettiness and rivalry between the two music divas.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">2d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626245" data-articleTitle="&#39;1000-Lb Sisters&#39; Star Amy Slaton &#39;Has Feelings Hurt&#39; With Age Jibe Despite Looking Slimmer Than Ever" >
+    <a href="//cdn.inquisitr.com/amy-slatons-weight-loss-success-overshadowed-by-hurtful-age-jibe" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626245/uploads/16f54ba0-039c-11ee-97c2-530ba5c56429_450_250.png" alt="&#39;1000-Lb Sisters&#39; Star Amy Slaton &#39;Has Feelings Hurt&#39; With Age Jibe Despite Looking Slimmer Than Ever"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          &#39;1000-Lb Sisters&#39; Star Amy Slaton &#39;Has Feelings Hurt&#39; With Age Jibe Despite Looking Slimmer Than Ever
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Amy Slaton &#39;has feelings hurt&#39; amid her weight loss journey as an age-related jibe dampened her spirits.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">2d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626856" data-articleTitle="Tammy Slaton Seen on a Road Trip With Mystery Man Amid Romance With Much Younger TikToker" >
+    <a href="//cdn.inquisitr.com/1000-lb-sisters-fame-tammy-slaton-spotted-with-mystery-man-in-indianapolis" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626856/uploads/fe89a850-05e8-11ee-8f92-19bec18ddbdf_450_250.png" alt="Tammy Slaton Seen on a Road Trip With Mystery Man Amid Romance With Much Younger TikToker"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Tammy Slaton Seen on a Road Trip With Mystery Man Amid Romance With Much Younger TikToker
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">Notably, at the start of this month, Tammy Slaton embarked on a romantic relationship with Greg Morgan.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">2d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                  
+                  <div class="divider col-xs-12 latest-divider mob-mt0"></div>
+                
+                
+          
+            
+              
+              
+              <div class="col-sm-12 movies-article-with-image mt0 bt0">
+                
+
+
+  <div class="mob-mt20 article-container_ga" data-articleType="latest" data-position="0" data-articleid="626914" data-articleTitle="Drake Goes Viral Following an &#39;Awkward&#39; Credit Card Decline Incident on Live Stream: &#34;What Just Happened?!&#34;" >
+    <a href="//cdn.inquisitr.com/drakes-credit-card-gets-declined-on-live-stream-what-just-happened" aria-label="link to article">
+      <div class="image-size-in-desktop mobile-list-image listArticle rect-img latest-image mob-px0 px0 w100p mob-w100p">
+        <img class="lazyload img-responsive w100p article-image_ga" src="https://dab57h0r8ahff.cloudfront.net/v4/assets/inquisitr_default_1_800x420.jpg" data-src="//dab57h0r8ahff.cloudfront.net/626914/uploads/197237b0-05fb-11ee-8f9a-875ff75a447f_450_250.jpeg" alt="Drake Goes Viral Following an &#39;Awkward&#39; Credit Card Decline Incident on Live Stream: &#34;What Just Happened?!&#34;"  />
+      </div>
+      <div class="article-details  showing-image ">
+        <div class="article-title article-title_ga latest-title    listArticle fl mob-w100p mob-mt10 mob-px0" style="width: 62.5%; font-size:21px; line-height: 1.22; font-family: MaisonNeue-bold;" >
+          
+          Drake Goes Viral Following an &#39;Awkward&#39; Credit Card Decline Incident on Live Stream: &#34;What Just Happened?!&#34;
+          
+            <p class="article-summary f12 lh1p47 font-MaisonNeue-Book light-gray mb0 mob-mb10 mob-mt0 pt5 latest-summary ">The rapper tried to send $500 to a fan during the live stream when his credit card got declined.</p>
+          
+          
+            <p class="generated-time-category-link f12 font-MaisonNeue-Medium display-inline-block">
+              
+              <span class="light-gray">2d ago</span>
+            </p>
+            <p class="f12 font-MaisonNeue-Medium" style="margin-top: -3px;">
+              
+            </p>
+          
+        </div>
+        <div class="clearfix"></div>
+      </div>
+    </a>
+  </div>
+
+
+              </div>
+                
+                
+                    </fieldset>
+                  </div>
+                  
+          
+
+          <div class="hidden-lg hidden-md hidden-sm mt10">
+            
+
+            
+
+          </div>
+
+        </div>
+        <div class="side-content col-sm-4 col-xs-12">
+          <div class="hidden-xs">
+            
+
+            
+
+          </div>
+
+        </div>
+        <div class="back2Top">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj4gICAgPGRlZnMgZmlsbD0iIzAwMDAwMCI+ICAgICAgICA8c3R5bGU+ICAgICAgICAgICAgLmNscy0xe2ZpbGw6I2VkMWIyNH0uY2xzLTJ7ZmlsbDojZmZmfSAgICAgICAgPC9zdHlsZT4gICAgPC9kZWZzPiAgICA8ZyBpZD0iQ1RBIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTExNSAtMjQ2MSkiPiAgICAgICAgPHJlY3QgaWQ9IlJlY3RhbmdsZV8yNDkzIiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIGNsYXNzPSJjbHMtMSIgZGF0YS1uYW1lPSJSZWN0YW5nbGUgMjQ5MyIgcng9IjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExMTUgMjQ2MSkiIGZpbGw9IiMwMDAwMDAiLz4gICAgICAgIDxwYXRoIGlkPSJVbmlvbl8xIiBkPSJNODYzMi41NTkgMTE3MzkuOTQzdi04LjMxNGwtMy44MzYgMy44MzMtMS43MjQtMS43MjcgNS4wNTYtNS4wNTMgMS43MjQtMS43MjcgMS43MjQgMS43MjcgNS4wNTYgNS4wNTMtMS43MjQgMS43MjctMy44MzYtMy44MzZ2OC4zMTd6TTg2MjcgMTE3MjUuNXYtMi41aDEzLjZ2Mi41eiIgY2xhc3M9ImNscy0yIiBkYXRhLW5hbWU9IlVuaW9uIDEiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC03NDk5IC05MjUwKSIgZmlsbD0iIzAwMDAwMCIvPiAgICA8L2c+PC9zdmc+" alt="scroll to top">
+</div>
+
+        <div class="search-results scroll-top-dependent-element author-page col-xs-12 col-sm-12 col-md-8 search-results-author-page mob-px0 mob-py0" style="display: none;">
+  <div class="side-content">
+    <div class="latest col-xs-12 mob-mt0">
+      <fieldset class="category-header search-results-showcase_ga">
+        <div class="legend-container display-flex space-between search-results-container">
+					<div class="category-header w100p">
+            <h2 class="search-results-header pointer f35 lh1p42 mt0 mb10 darkish-blue" id="search-term">
+            </h2>
+          </div>
+          <div class="search-methods pointer display-flex flex-end align-center font-MaisonNeue-Demi f12 mb10">
+            <span class="search-methods-sort-by light-gray font-MaisonNeue-Book f12">SORT BY</span>
+            <div class="search-method-display">
+              <span class="search-current-method"></span>
+              <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDE0IDE0Ij4gICAgPGRlZnM+ICAgICAgICA8c3R5bGU+ICAgICAgICAgICAgLmNscy0xe2ZpbGw6I2ZmZjtzdHJva2U6IzcwNzA3MH0uY2xzLTJ7Y2xpcC1wYXRoOnVybCgjY2xpcC1wYXRoKX0uY2xzLTN7ZmlsbDpub25lO3N0cm9rZTojMDI0MDg0O3N0cm9rZS13aWR0aDoxLjVweH0gICAgICAgIDwvc3R5bGU+ICAgICAgICA8Y2xpcFBhdGggaWQ9ImNsaXAtcGF0aCI+ICAgICAgICAgICAgPHBhdGggaWQ9IlJlY3RhbmdsZV8yNTY3IiBkPSJNMCAwaDE0djE0SDB6IiBjbGFzcz0iY2xzLTEiIGRhdGEtbmFtZT0iUmVjdGFuZ2xlIDI1NjciIHRyYW5zZm9ybT0idHJhbnNsYXRlKDMzMSAxMDcpIi8+ICAgICAgICA8L2NsaXBQYXRoPiAgICA8L2RlZnM+ICAgIDxnIGlkPSJNYXNrX0dyb3VwXzIxNyIgY2xhc3M9ImNscy0yIiBkYXRhLW5hbWU9Ik1hc2sgR3JvdXAgMjE3IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMzMxIC0xMDcpIj4gICAgICAgIDxwYXRoIGlkPSJQYXRoXzY0NjgiIGQ9Ik0tMjMzLjU5MS0xNzM5LjdsLTQuNTg3IDQuNTE0IDQuNTg3IDQuNTEzIiBjbGFzcz0iY2xzLTMiIGRhdGEtbmFtZT0iUGF0aCA2NDY4IiB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgOTc1LjgwNyAtMTA5Ny41NTIpIi8+ICAgIDwvZz48L3N2Zz4="
+              class="search-methods-selector mt0 fr" alt="dropdown arrow">
+            </div>
+            <div class="search-methods-option display-flex absolute background-white light-gray">
+              <input id="method-trending" type="radio" value="trending" name="method" checked />
+              <label class="search-option-button pointer" for="method-trending">RELEVANCE</label>
+              <input id="method-latest" type="radio" value="latest" name="method" />
+              <label class="search-option-button pointer" for="method-latest">DATE</label>
+            </div>
+
+          </div>
+        </div>
+        <div class="articles">
+        </div>
+      </fieldset>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+
+      <!-- Main Articles Container End -->
+      <!-- Homepage Main End -->
+      <!-- Footer -->
+      <footer>
+        <!-- Mobile Footer -->
+<div class="mobile-footer-container visible-xs ">
+<div class="container footer-container text-center font-MaisonNeue-Book">
+  <div class="company-wrapper">
+    <a href="/" class="mob-footer-cont meaww_home">
+      <div class="mob-footer-logo meaww-logo">
+        <img src="https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/inquisitr-logo.png" alt="INQUISITR Logo">
+      </div>
+    </a>
+    <ul class="footer-nav footer__static-links">
+      <li><a class="f12 lh2 light-gray" href="/page/about-us">About Us</a></li>
+      <li><a class="f12 lh2 light-gray" href="/page/privacy">Privacy Policy</a></li>
+      <li><a class="f12 lh2 light-gray" href="/page/terms">Terms of use</a></li>
+      <li><a class="f12 lh2 light-gray" href="/page/dmca">DMCA</a></li>
+    </ul>
+    <p class="pt20 mob-px15 text-center f12 lh1p42 light-gray">
+      © Copyright 2023 The Inquisitr. The Inquisitr is a registered trademark. All Rights Reserved. People may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+    </p>
+  </div>
+</div>
+</div>
+
+
+<!-- Desktop Footer -->
+<div class="footer hidden-xs footer-container  font-MaisonNeue-Book">
+<div class="container footer-container pt28 my20 mx0 font-MaisonNeue-Book">
+  <div class="row" >
+    <div class="col-sm-4">
+      <div class="company-wrapper">
+        <a href="/" class="meaww_home">
+          <div class="meaww-logo">
+            <img class="h30" src="https://d15pn4sjte4r7g.cloudfront.net/inquisitr/assets/inquisitr-logo.png" alt="Inquisitr Logo" >
+          </div>
+        </a>
+        <ul class="pt12 footer-nav footer__static-links">
+          <li><a class="f12 lh2 light-gray" href="/page/about-us">About Us</a></li>
+          <li><a class="f12 lh2 light-gray" href="/page/privacy">Privacy Policy</a></li>
+          <li><a class="f12 lh2 light-gray" href="/page/terms">Terms of use</a></li>
+          <li><a class="f12 lh2 light-gray" href="/page/dmca">DMCA</a></li>
+        </ul>
+        <p class="f12 lh1p42 light-gray">
+          © Copyright 2023 The Inquisitr. The Inquisitr is a registered trademark. All Rights Reserved. People may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.
+        </p>
+      </div>
+    </div>
+    <div class="col-sm-5">
+      <div class="row pb20">
+      </div>
+    </div>
+    <div class="col-sm-3 download-block">
+    </div>
+  </div>
+
+</div>
+</div>
+<script src="https://dab57h0r8ahff.cloudfront.net/v4/assets/lazysizes_min.js" defer></script>
+<script type="text/javascript" src="//dab57h0r8ahff.cloudfront.net/static/assets/bundle.ece68f.js" async></script>
+      </footer>
+    </div>
+  </div>
+</body>
+
+</html>

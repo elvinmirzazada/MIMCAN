@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MIMCAN.iml" filepath="$PROJECT_DIR$/.idea/MIMCAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Multimodal-Multi-image-Fake-News-Detection-main/.idea/Multimodal-Multi-image-Fake-News-Detection-main.iml" filepath="$PROJECT_DIR$/../Multimodal-Multi-image-Fake-News-Detection-main/.idea/Multimodal-Multi-image-Fake-News-Detection-main.iml" />
+    </modules>
+  </component>
+</project>

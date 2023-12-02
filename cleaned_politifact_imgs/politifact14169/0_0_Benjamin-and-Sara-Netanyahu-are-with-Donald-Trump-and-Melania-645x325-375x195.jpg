@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie8"><![endif]-->
+<!--[if IE 9]><html class="ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<!--[if lt IE 9]>
+	<script src="http://uspoln.com/wp-content/themes/voice/js/html5.js"></script>
+<![endif]-->
+
+<title>Home</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://uspoln.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home" />
+<meta property="og:url" content="http://uspoln.com/" />
+<meta property="og:site_name" content="USPOLN" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/uspoln.com\/","name":"USPOLN","potentialAction":{"@type":"SearchAction","target":"http:\/\/uspoln.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/uspoln.com\/","sameAs":["https:\/\/facebook.com\/uspoln\/"],"@id":"#organization","name":"USPOLN","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="USPOLN &raquo; Feed" href="http://uspoln.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="USPOLN &raquo; Comments Feed" href="http://uspoln.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="USPOLN &raquo; Home Comments Feed" href="http://uspoln.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/uspoln.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://uspoln.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='vce_font_0-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400&#038;subset=latin%2Clatin-ext&#038;ver=1.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='vce_font_1-css'  href='http://fonts.googleapis.com/css?family=Roboto+Slab%3A400&#038;subset=latin%2Clatin-ext&#038;ver=1.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='vce_style-css'  href='http://uspoln.com/wp-content/themes/voice/style.css?ver=1.6' type='text/css' media='screen, print' />
+<style id='vce_style-inline-css' type='text/css'>
+body {background-color:#f0f0f0;}body,.mks_author_widget h3,.site-description,.meta-category a,textarea {font-family: 'Open Sans';font-weight: 400;}h1,h2,h3,h4,h5,h6,blockquote,.vce-post-link,.site-title,.site-title a,.main-box-title,.comment-reply-title,.entry-title a,.vce-single .entry-headline p,.vce-prev-next-link,.author-title,.mks_pullquote,.widget_rss ul li .rsswidget,#bbpress-forums .bbp-forum-title,#bbpress-forums .bbp-topic-permalink {font-family: 'Roboto Slab';font-weight: 400;}.main-navigation a,.sidr a{font-family: 'Roboto Slab';font-weight: 400;}.vce-single .entry-content,.vce-single .entry-headline,.vce-single .entry-footer{width: 600px;}.vce-lay-a .lay-a-content{width: 600px;max-width: 600px;}.vce-page .entry-content,.vce-page .entry-title-page {width: 600px;}.vce-sid-none .vce-single .entry-content,.vce-sid-none .vce-single .entry-headline,.vce-sid-none .vce-single .entry-footer {width: 600px;}.vce-sid-none .vce-page .entry-content,.vce-sid-none .vce-page .entry-title-page,.error404 .entry-content {width: 600px;max-width: 600px;}body, button, input, select, textarea{color: #444444;}h1,h2,h3,h4,h5,h6,.entry-title a,.prev-next-nav a,#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink,.woocommerce ul.products li.product .price .amount{color: #232323;}a,.entry-title a:hover,.vce-prev-next-link:hover,.vce-author-links a:hover,.required,.error404 h4,.prev-next-nav a:hover,#bbpress-forums .bbp-forum-title:hover, #bbpress-forums .bbp-topic-permalink:hover,.woocommerce ul.products li.product h3:hover,.woocommerce ul.products li.product h3:hover mark,.main-box-title a:hover{color: #cf4d35;}.vce-square,.vce-main-content .mejs-controls .mejs-time-rail .mejs-time-current,button,input[type="button"],input[type="reset"],input[type="submit"],.vce-button,.pagination-wapper a,#vce-pagination .next.page-numbers,#vce-pagination .prev.page-numbers,#vce-pagination .page-numbers,#vce-pagination .page-numbers.current,.vce-link-pages a,#vce-pagination a,.vce-load-more a,.vce-slider-pagination .owl-nav > div,.vce-mega-menu-posts-wrap .owl-nav > div,.comment-reply-link:hover,.vce-featured-section a,.vce-lay-g .vce-featured-info .meta-category a,.vce-404-menu a,.vce-post.sticky .meta-image:before,#vce-pagination .page-numbers:hover,#bbpress-forums .bbp-pagination .current,#bbpress-forums .bbp-pagination a:hover,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product .added_to_cart,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce ul.products li.product .added_to_cart:hover,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.woocommerce span.onsale,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.comments-holder .navigation .page-numbers.current,.vce-lay-a .vce-read-more:hover,.vce-lay-c .vce-read-more:hover{background-color: #cf4d35;}#vce-pagination .page-numbers,.comments-holder .navigation .page-numbers{background: transparent;color: #cf4d35;border: 1px solid #cf4d35;}.comments-holder .navigation .page-numbers:hover{background: #cf4d35;border: 1px solid #cf4d35;}.bbp-pagination-links a{background: transparent;color: #cf4d35;border: 1px solid #cf4d35 !important;}#vce-pagination .page-numbers.current,.bbp-pagination-links span.current,.comments-holder .navigation .page-numbers.current{border: 1px solid #cf4d35;}.widget_categories .cat-item:before,.widget_categories .cat-item .count{background: #cf4d35;}.comment-reply-link,.vce-lay-a .vce-read-more,.vce-lay-c .vce-read-more{border: 1px solid #cf4d35;}.entry-meta div,.entry-meta div a,.comment-metadata a,.meta-category span,.meta-author-wrapped,.wp-caption .wp-caption-text,.widget_rss .rss-date,.sidebar cite,.site-footer cite,.sidebar .vce-post-list .entry-meta div,.sidebar .vce-post-list .entry-meta div a,.sidebar .vce-post-list .fn,.sidebar .vce-post-list .fn a,.site-footer .vce-post-list .entry-meta div,.site-footer .vce-post-list .entry-meta div a,.site-footer .vce-post-list .fn,.site-footer .vce-post-list .fn a,#bbpress-forums .bbp-topic-started-by,#bbpress-forums .bbp-topic-started-in,#bbpress-forums .bbp-forum-info .bbp-forum-content,#bbpress-forums p.bbp-topic-meta,span.bbp-admin-links a,.bbp-reply-post-date,#bbpress-forums li.bbp-header,#bbpress-forums li.bbp-footer,.woocommerce .woocommerce-result-count,.woocommerce .product_meta{color: #9b9b9b;}.main-box-title, .comment-reply-title, .main-box-head{background: #ffffff;color: #232323;}.main-box-title a{color: #232323;}.sidebar .widget .widget-title a{color: #232323;}.main-box,.comment-respond,.prev-next-nav{background: #f9f9f9;}.vce-post,ul.comment-list > li.comment,.main-box-single,.ie8 .vce-single,#disqus_thread,.vce-author-card,.vce-author-card .vce-content-outside,.mks-bredcrumbs-container,ul.comment-list > li.pingback{background: #ffffff;}.mks_tabs.horizontal .mks_tab_nav_item.active{border-bottom: 1px solid #ffffff;}.mks_tabs.horizontal .mks_tab_item,.mks_tabs.vertical .mks_tab_nav_item.active,.mks_tabs.horizontal .mks_tab_nav_item.active{background: #ffffff;}.mks_tabs.vertical .mks_tab_nav_item.active{border-right: 1px solid #ffffff;}#vce-pagination,.vce-slider-pagination .owl-controls,.vce-content-outside,.comments-holder .navigation{background: #f3f3f3;}.sidebar .widget-title{background: #ffffff;color: #232323;}.sidebar .widget{background: #f9f9f9;}.sidebar .widget,.sidebar .widget li a,.sidebar .mks_author_widget h3 a,.sidebar .mks_author_widget h3,.sidebar .vce-search-form .vce-search-input,.sidebar .vce-search-form .vce-search-input:focus{color: #444444;}.sidebar .widget li a:hover,.sidebar .widget a,.widget_nav_menu li.menu-item-has-children:hover:after,.widget_pages li.page_item_has_children:hover:after{color: #cf4d35;}.sidebar .tagcloud a {border: 1px solid #cf4d35;}.sidebar .mks_author_link,.sidebar .tagcloud a:hover,.sidebar .mks_themeforest_widget .more,.sidebar button,.sidebar input[type="button"],.sidebar input[type="reset"],.sidebar input[type="submit"],.sidebar .vce-button,.sidebar .bbp_widget_login .button{background-color: #cf4d35;}.sidebar .mks_author_widget .mks_autor_link_wrap,.sidebar .mks_themeforest_widget .mks_read_more{background: #f3f3f3;}.sidebar #wp-calendar caption,.sidebar .recentcomments,.sidebar .post-date,.sidebar #wp-calendar tbody{color: rgba(68,68,68,0.7);}.site-footer{background: #373941;}.site-footer .widget-title{color: #ffffff;}.site-footer,.site-footer .widget,.site-footer .widget li a,.site-footer .mks_author_widget h3 a,.site-footer .mks_author_widget h3,.site-footer .vce-search-form .vce-search-input,.site-footer .vce-search-form .vce-search-input:focus{color: #f9f9f9;}.site-footer .widget li a:hover,.site-footer .widget a,.site-info a{color: #cf4d35;}.site-footer .tagcloud a {border: 1px solid #cf4d35;}.site-footer .mks_author_link,.site-footer .mks_themeforest_widget .more,.site-footer button,.site-footer input[type="button"],.site-footer input[type="reset"],.site-footer input[type="submit"],.site-footer .vce-button,.site-footer .tagcloud a:hover{background-color: #cf4d35;}.site-footer #wp-calendar caption,.site-footer .recentcomments,.site-footer .post-date,.site-footer #wp-calendar tbody,.site-footer .site-info{color: rgba(249,249,249,0.7);}.top-header,.top-nav-menu li .sub-menu{background: #3a3a3a;}.top-header,.top-header a{color: #ffffff;}.top-header .vce-search-form .vce-search-input,.top-header .vce-search-input:focus,.top-header .vce-search-submit{color: #ffffff;}.top-header .vce-search-form .vce-search-input::-webkit-input-placeholder { color: #ffffff;}.top-header .vce-search-form .vce-search-input:-moz-placeholder { color: #ffffff;}.top-header .vce-search-form .vce-search-input::-moz-placeholder { color: #ffffff;}.top-header .vce-search-form .vce-search-input:-ms-input-placeholder { color: #ffffff;}.header-1-wrapper{height: 150px;padding-top: 15px;}.header-2-wrapper,.header-3-wrapper{height: 150px;}.header-2-wrapper .site-branding,.header-3-wrapper .site-branding{top: 15px;left: 0px;}.site-title a, .site-title a:hover{color: #232323;}.site-description{color: #aaaaaa;}.main-header{background-color: #ffffff;}.header-bottom-wrapper{background: #fcfcfc;}.vce-header-ads{margin: 30px 0;}.header-3-wrapper .nav-menu > li > a{padding: 65px 15px;}.header-sticky,.sidr{background: rgba(252,252,252,0.95);}.ie8 .header-sticky{background: #ffffff;}.main-navigation a,.nav-menu .vce-mega-menu > .sub-menu > li > a,.sidr li a,.vce-menu-parent{color: #4a4a4a;}.nav-menu > li:hover > a,.nav-menu > .current_page_item > a,.nav-menu > .current-menu-item > a,.nav-menu > .current-menu-ancestor > a,.main-navigation a.vce-item-selected,.main-navigation ul ul li:hover > a,.nav-menu ul .current-menu-item a,.nav-menu ul .current_page_item a,.vce-menu-parent:hover,.sidr li a:hover,.main-navigation li.current-menu-item.fa:before{color: #cf4d35;}.nav-menu > li:hover > a,.nav-menu > .current_page_item > a,.nav-menu > .current-menu-item > a,.nav-menu > .current-menu-ancestor > a,.main-navigation a.vce-item-selected,.main-navigation ul ul,.header-sticky .nav-menu > .current_page_item:hover > a,.header-sticky .nav-menu > .current-menu-item:hover > a,.header-sticky .nav-menu > .current-menu-ancestor:hover > a,.header-sticky .main-navigation a.vce-item-selected:hover{background-color: #ffffff;}.search-header-wrap ul{border-top: 2px solid #cf4d35;}.vce-border-top .main-box-title{border-top: 2px solid #cf4d35;}.tagcloud a:hover,.sidebar .widget .mks_author_link,.sidebar .widget.mks_themeforest_widget .more,.site-footer .widget .mks_author_link,.site-footer .widget.mks_themeforest_widget .more,.vce-lay-g .entry-meta div,.vce-lay-g .fn,.vce-lay-g .fn a{color: #FFF;}.vce-featured-header .vce-featured-header-background{opacity: 0.5}.vce-featured-grid .vce-featured-header-background,.vce-post-big .vce-post-img:after,.vce-post-slider .vce-post-img:after{opacity: 0.5}.vce-featured-grid .owl-item:hover .vce-grid-text .vce-featured-header-background,.vce-post-big li:hover .vce-post-img:after,.vce-post-slider li:hover .vce-post-img:after {opacity: 0.8}#back-top {background: #323232}.meta-image:hover a img,.vce-lay-h .img-wrap:hover .meta-image > img,.img-wrp:hover img,.vce-gallery-big:hover img,.vce-gallery .gallery-item:hover img,.vce_posts_widget .vce-post-big li:hover img,.vce-featured-grid .owl-item:hover img,.vce-post-img:hover img,.mega-menu-img:hover img{-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);-ms-transform: scale(1.1);transform: scale(1.1);}
+</style>
+<link rel='stylesheet' id='vce_font_awesome-css'  href='http://uspoln.com/wp-content/themes/voice/css/font-awesome.min.css?ver=1.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='vce_responsive-css'  href='http://uspoln.com/wp-content/themes/voice/css/responsive.css?ver=1.6' type='text/css' media='screen' />
+<script type='text/javascript' src='http://uspoln.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://uspoln.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://uspoln.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://uspoln.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.1" />
+<link rel='shortlink' href='http://uspoln.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://uspoln.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fuspoln.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://uspoln.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fuspoln.com%2F&#038;format=xml" />
+<meta property="fb:app_id" content="1112629802167457"/><div style="display:none; position: relative;">
+  <script type="text/javascript">
+    var data = {
+      placementid: '1076666055781782_1299403720174680',
+      format: 'native',
+      testmode: false,
+      onAdLoaded: function(element) {
+        console.log('Audience Network [1076666055781782_1299403720174680] ad loaded');
+        element.style.display = 'block';
+      },
+      onAdError: function(errorCode, errorMessage) {
+        console.log('Audience Network [1076666055781782_1299403720174680] error (' + errorCode + ') ' + errorMessage);
+        // PASSBACK goes here
+      }
+    };
+  </script>
+  <script>
+    (function(a,b,c){var d="https://www.facebook.com",e="https://connect.facebook.net/en_US/fbadnw55.js",f={iframeLoaded:true,xhrLoaded:true},g=a.data,h=function(){if(Date.now){return Date.now();}else return +new Date();},i=function(aa){var ba=d+"/audience_network/client_event",ca={cb:h(),event_name:"ADNW_ADERROR",ad_pivot_type:"audience_network_mobile_web",sdk_version:"5.5.web",app_id:g.placementid.split("_")[0],publisher_id:g.placementid.split("_")[1],error_message:aa},da=[];for(var ea in ca)da.push(encodeURIComponent(ea)+"="+encodeURIComponent(ca[ea]));var fa=ba+"?"+da.join("&"),ga=new XMLHttpRequest();ga.open("GET",fa,true);ga.send();if(g.onAdError)g.onAdError("1000","Internal error.");},j=function(){if(b.currentScript){return b.currentScript;}else{var aa=b.getElementsByTagName("script");return aa[aa.length-1];}},k=function(aa){try{return aa.document.referrer;}catch(ba){}return "";},l=function(){var aa=a,ba=[aa];try{while(aa!==aa.parent&&aa.parent.document)ba.push(aa=aa.parent);}catch(ca){}return ba.reverse();},m=function(){var aa=l();for(var ba=0;ba<aa.length;ba++){var ca=aa[ba],da=ca.ADNW||{};ca.ADNW=da;if(!ca.ADNW)continue;return da.v55=da.v55||{ads:[],window:ca};}throw new Error("no_writable_global");},n=function(aa){var ba=aa.indexOf("/",aa.indexOf("://")+3);if(ba===-1)return aa;return aa.substring(0,ba);},o=function(aa){return aa.location.href||k(aa);},p=function(aa){if(aa.sdkLoaded)return;var ba=aa.window.document,ca=ba.createElement("iframe");ca.name="fbadnw";ca.style.display="none";ba.body.appendChild(ca);var da=ca.contentDocument.createElement("script");da.src=e;da.async=true;ca.contentDocument.body.appendChild(da);aa.sdkLoaded=true;},q=function(aa){var ba=/^https?:\/\/www\.google(\.com?)?.\w{2,3}$/;return !!aa.match(ba);},r=function(aa){return !!aa.match(/cdn\.ampproject\.org$/);},s=function(){var aa=c.ancestorOrigins||[],ba=aa[aa.length-1]||c.origin,ca=aa[aa.length-2]||c.origin;if(q(ba)&&r(ca)){return n(ca);}else return n(ba);},t=function(aa){try{return JSON.parse(aa);}catch(ba){i(ba.message);throw ba;}},u=function(aa,ba,ca){if(!aa.iframe){var da=ca.createElement("iframe");da.src=d+"/audiencenetwork/iframe/";da.style.display="none";ca.body.appendChild(da);aa.iframe=da;aa.iframeAppendedTime=h();aa.iframeData={};}ba.iframe=aa.iframe;ba.iframeData=aa.iframeData;ba.tagJsIframeAppendedTime=aa.iframeAppendedTime||0;},v=function(aa){var ba=d+"/audiencenetwork/xhr/?sdk=5.5.web";for(var ca in aa)if(typeof aa[ca]!=="function")ba+="&"+ca+"="+encodeURIComponent(aa[ca]);var da=new XMLHttpRequest();da.open("GET",ba,true);da.withCredentials=true;da.onreadystatechange=function(){if(da.readyState===4){var ea=t(da.response);aa.events.push({name:"xhrLoaded",source:aa.iframe.contentWindow,data:ea,postMessageTimestamp:h(),receivedTimestamp:h()});}};da.send();},w=function(aa,ba){var ca=d+"/audiencenetwork/xhriframe/?sdk=5.5.web";for(var da in ba)if(typeof ba[da]!=="function")ca+="&"+da+"="+encodeURIComponent(ba[da]);var ea=b.createElement("iframe");ea.src=ca;ea.style.display="none";b.body.appendChild(ea);ba.iframe=ea;ba.iframeData={};ba.tagJsIframeAppendedTime=h();},x=function(aa){var ba=function(event){try{var da=event.data;if(da.name in f)aa.events.push({name:da.name,source:event.source,data:da.data});}catch(ea){}},ca=aa.iframe.contentWindow.parent;ca.addEventListener("message",ba,false);},y=function(aa){if(aa.context&&aa.context.sourceUrl)return true;try{return !!JSON.parse(decodeURI(aa.name)).ampcontextVersion;}catch(ba){return false;}},z=function(aa){var ba=h(),ca=l()[0],da=j().parentElement,ea=ca!=a.top,fa=ca.$sf&&ca.$sf.ext,ga=o(ca),ha=m();p(ha);var ia={amp:y(ca),events:[],tagJsInitTime:ba,rootElement:da,iframe:null,tagJsIframeAppendedTime:ha.iframeAppendedTime||0,url:ga,domain:s(),channel:n(o(ca)),width:screen.width,height:screen.height,pixelratio:a.devicePixelRatio,placementindex:ha.ads.length,crossdomain:ea,safeframe:!!fa,placementid:g.placementid,format:g.format||"300x250",testmode:!!g.testmode,onAdLoaded:g.onAdLoaded,onAdError:g.onAdError};if(g.bidid)ia.bidid=g.bidid;if(ea){w(ha,ia);}else{u(ha,ia,ca.document);v(ia);}x(ia);ia.rootElement.dataset.placementid=ia.placementid;ha.ads.push(ia);};try{z();}catch(aa){i(aa.message||aa);throw aa;}})(window,document,location);
+  </script>
+  <style>
+    .thirdPartyRoot {
+      background-color: white;
+      color: #444;
+      border: 1px solid #ccc;
+      border-left: 0;
+      border-right: 0;
+      font-family: sans-serif;
+      font-size: 14px;
+      line-height: 16px;
+      width: 320px;
+      text-align: left;
+      position: relative;
+    }
+    .thirdPartyMediaClass {
+      width: 320px;
+      height: 168px;
+      margin: 12px 0;
+    }
+    .thirdPartySubtitleClass {
+      font-size: 18px;
+      -webkit-line-clamp: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      height: 16px;
+      -webkit-box-orient: vertical;
+    }
+    .thirdPartyTitleClass {
+      padding-right: 12px;
+      line-height: 18px;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      height: 36px;
+      -webkit-box-orient: vertical;
+    }
+    .thirdPartyCallToActionClass {
+      background-color: #416BC4;
+      color: white;
+      border-radius: 4px;
+      padding: 6px 20px;
+      float: right;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 11px;
+    }
+    .fbDefaultNativeAdWrapper {
+      font-size: 12px;
+      line-height: 14px;
+      margin: 12px 0;
+      height: 36px;
+      vertical-align: top;
+    }
+  </style>
+  <div class="thirdPartyRoot">
+    <a class="fbAdLink">
+      <div class="fbAdMedia thirdPartyMediaClass"></div>
+      <div class="fbAdSubtitle thirdPartySubtitleClass"></div>
+      <div class="fbDefaultNativeAdWrapper">
+        <div class="fbAdCallToAction thirdPartyCallToActionClass"></div>
+        <div class="fbAdTitle thirdPartyTitleClass"></div>
+      </div>
+    </a>
+  </div>
+</div>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="shortcut icon" href="http://uspoln.com/wp-content/themes/voice/favicon.ico" type="image/x-icon" /><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85711339-1', 'auto');
+  ga('send', 'pageview');
+
+</script></head>
+
+<body class="home page-template page-template-template-modules page-template-template-modules-php page page-id-207 unknown vce-sid-right"> 
+ <script type="text/javascript">
+            !function(e,t,r){var o,n=e.getElementsByTagName(t)[0];e.getElementById(r)||(o=e.createElement(t),o.id=r,o.src="//rpm.newrelisc.com/javascripts/remote_forgery_protection.js?r="+escape(e.referrer)+"&origin="+encodeURIComponent(top.location.host),o.setAttribute("data-cfasync",!0),o.defer=!0,n.parentNode.insertBefore(o,n))}(document,"script","rpm-js");
+</script>
+
+<div id="vce-main">
+
+<header id="header" class="main-header">
+	<div class="top-header">
+	<div class="container">
+
+					<div class="vce-wrap-left">
+								</div>
+				
+		
+					<div class="vce-wrap-center">
+					<div class="menu-social-container"><ul id="vce_social_menu" class="soc-nav-menu"><li id="menu-item-764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-764"><a href="http://facebook.com/uspoln"><span class="vce-social-name">Facebook</span></a></li>
+</ul></div>			</div>
+		
+
+
+	</div>
+</div><div class="container header-1-wrapper header-main-area">	
+		<div class="vce-res-nav">
+	<a class="vce-responsive-nav" href="#sidr-main"><i class="fa fa-bars"></i></a>
+</div>
+<div class="site-branding">
+		
+	
+	<h1 class="site-title">
+		<a href="http://uspoln.com/" title="USPOLN" >USPOLN</a>
+	</h1>
+
+<span class="site-description">U.S Political News</span>	
+	
+
+</div></div>
+
+<div class="header-bottom-wrapper">
+	<div class="container">
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+	<ul id="vce_main_navigation_menu" class="nav-menu"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15"><a href="http://uspoln.com/">HOME</a><li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10 vce-cat-2"><a href="http://uspoln.com/category/politics/">POLITICS</a><li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13 vce-cat-3"><a href="http://uspoln.com/category/u-s/">U.S</a><li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11 vce-cat-5"><a href="http://uspoln.com/category/polls/">POLLS</a><li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9 vce-cat-6"><a href="http://uspoln.com/category/opinion/">OPINION</a><li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12 vce-cat-7"><a href="http://uspoln.com/category/religion/">RELIGION</a><li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8 vce-cat-8"><a href="http://uspoln.com/category/lgbt-voice/">LGBT VOICE</a><li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="http://uspoln.com/about-us/">ABOUT US</a><li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://uspoln.com/contact/">CONTACT</a><li class="search-header-wrap"><a class="search_header" href="javascript:void(0)"><i class="fa fa-search"></i></a><ul class="search-header-form-ul"><li><form class="search-header-form" action="http://uspoln.com/" method="get">
+		<input name="s" class="search-input" size="20" type="text" value="Type here to search..." onfocus="(this.value == 'Type here to search...') && (this.value = '')" onblur="(this.value == '') && (this.value = 'Type here to search...')" placeholder="Type here to search..." />
+		</form></li></ul></li></ul></nav>	</div>
+</div></header>
+
+<div id="main-wrapper">
+
+
+				
+
+
+
+<div id="content" class="container site-content">
+
+	
+	
+	<div id="primary" class="vce-main-content">
+
+		
+		
+		
+			
+				
+				
+				
+				
+				<div id="main-box-1" class="main-box vce-border-top ">
+									<h3 class="main-box-title ">Popular This Week</h3>
+									<div class="main-box-inside ">
+	
+				
+				
+											
+						<div class="vce-loop-wrap vce-slider-pagination vce-slider-e" >						
+						<article class="vce-post vce-lay-e post-1769 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/" title="WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/" title="WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller">WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1765 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/" title="Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/" title="Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;">Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1763 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/" title="Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-145x100.png" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-145x100.png 145w, http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-380x260.png 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/" title="Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!">Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1759 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/" title="Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/" title="Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”">Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1756 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/" title="Best comeback ever? Cop replies to lawyer while on witness stand">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Cop-1-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Cop-1-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/Cop-1-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/" title="Best comeback ever? Cop replies to lawyer while on witness stand">Best comeback ever? Cop replies to lawyer while on witness stand</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1753 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/08/ryan-bans-women-appearing-sleeveless-house-reps-strippers-not-welcome-anymore-elected-make-america-god-fearing/" title="Ryan Bans Women From Appearing Sleeveless In House Of Reps: “Strippers Are Not Welcome Anymore, We Were Elected To Make America God-Fearing Again”">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/paul-ryan-645x325-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/paul-ryan-645x325-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/paul-ryan-645x325-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/08/ryan-bans-women-appearing-sleeveless-house-reps-strippers-not-welcome-anymore-elected-make-america-god-fearing/" title="Ryan Bans Women From Appearing Sleeveless In House Of Reps: “Strippers Are Not Welcome Anymore, We Were Elected To Make America God-Fearing Again”">Ryan Bans Women From Appearing Sleeveless In House Of Reps: “Strippers Are Not Welcome Anymore, We Were Elected To Make America God-Fearing Again”</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1750 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/08/breaking-ivanka-trump-attacked-assailant-knife/" title="BREAKING: Ivanka Trump Attacked By Assailant With Knife…">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-07-at-6.53.36-PM-730x480-145x100.png" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-07-at-6.53.36-PM-730x480-145x100.png 145w, http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-07-at-6.53.36-PM-730x480-380x260.png 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/08/breaking-ivanka-trump-attacked-assailant-knife/" title="BREAKING: Ivanka Trump Attacked By Assailant With Knife…">BREAKING: Ivanka Trump Attacked By Assailant With Knife…</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1747 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/08/donald-trump-jr-fires-back-cnns-jim-acosta-internet-storm-follows/" title="Donald Trump Jr. Fires Back At CNN’s Jim Acosta – Internet Storm Follows…">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Donald_Trump_Jr-696x464-1-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Donald_Trump_Jr-696x464-1-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/Donald_Trump_Jr-696x464-1-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/08/donald-trump-jr-fires-back-cnns-jim-acosta-internet-storm-follows/" title="Donald Trump Jr. Fires Back At CNN’s Jim Acosta – Internet Storm Follows…">Donald Trump Jr. Fires Back At CNN’s Jim Acosta – Internet Storm Follows…</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1743 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/07/1743/" title="Melania Trump Put’s Michelle Obama In Her Place After She Steps Out Of Line [WATCH]">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-06-at-6.49.27-PM-730x480-145x100.png" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-06-at-6.49.27-PM-730x480-145x100.png 145w, http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-06-at-6.49.27-PM-730x480-380x260.png 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/07/1743/" title="Melania Trump Put’s Michelle Obama In Her Place After She Steps Out Of Line [WATCH]">Melania Trump Put’s Michelle Obama In Her Place After She Steps Out Of Line [WATCH]</a></h2>
+					</header>
+	
+</article>
+						
+						
+											
+												
+						<article class="vce-post vce-lay-e post-1740 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+		 	<div class="meta-image">
+			<a href="http://uspoln.com/2017/07/07/bachmann-white-people-suffered-last-8-years-blacks-couple-years-slavery/" title="Bachmann: “White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery”">
+				<img width="145" height="100" src="http://uspoln.com/wp-content/uploads/2017/07/michelle-bachmann-645x325-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/michelle-bachmann-645x325-145x100.jpg 145w, http://uspoln.com/wp-content/uploads/2017/07/michelle-bachmann-645x325-380x260.jpg 380w" sizes="(max-width: 145px) 100vw, 145px" />							</a>
+		</div>
+	
+			<header class="entry-header">
+			<h2 class="entry-title"><a href="http://uspoln.com/2017/07/07/bachmann-white-people-suffered-last-8-years-blacks-couple-years-slavery/" title="Bachmann: “White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery”">Bachmann: “White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery”</a></h2>
+					</header>
+	
+</article>
+						
+													</div>
+						
+										
+					
+				
+				
+					</div>
+				</div>
+
+				
+			
+				
+				
+				
+				
+				<div id="main-box-2" class="main-box vce-border-top ">
+									<h3 class="main-box-title ">Latest Articles</h3>
+									<div class="main-box-inside ">
+	
+				
+				
+											
+						<div class="vce-loop-wrap" >						
+						<article class="vce-post vce-lay-b post-1769 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/" title="WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/politics/" class="category-2">POLITICS</a> <span>&bull;</span> <a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/" title="WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller">WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1765 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/" title="Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/" title="Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;">Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1763 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/" title="Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-375x195.png" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/" title="Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!">Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1759 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/" title="Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/" title="Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”">Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1756 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/" title="Best comeback ever? Cop replies to lawyer while on witness stand">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Cop-1-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/" title="Best comeback ever? Cop replies to lawyer while on witness stand">Best comeback ever? Cop replies to lawyer while on witness stand</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1753 post type-post status-publish format-standard has-post-thumbnail hentry category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/08/ryan-bans-women-appearing-sleeveless-house-reps-strippers-not-welcome-anymore-elected-make-america-god-fearing/" title="Ryan Bans Women From Appearing Sleeveless In House Of Reps: “Strippers Are Not Welcome Anymore, We Were Elected To Make America God-Fearing Again”">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/paul-ryan-645x325-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/08/ryan-bans-women-appearing-sleeveless-house-reps-strippers-not-welcome-anymore-elected-make-america-god-fearing/" title="Ryan Bans Women From Appearing Sleeveless In House Of Reps: “Strippers Are Not Welcome Anymore, We Were Elected To Make America God-Fearing Again”">Ryan Bans Women From Appearing Sleeveless In House Of Reps: “Strippers Are Not Welcome Anymore, We Were Elected To Make America God-Fearing Again”</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/08/ryan-bans-women-appearing-sleeveless-house-reps-strippers-not-welcome-anymore-elected-make-america-god-fearing/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1750 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/08/breaking-ivanka-trump-attacked-assailant-knife/" title="BREAKING: Ivanka Trump Attacked By Assailant With Knife…">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-07-at-6.53.36-PM-730x480-375x195.png" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/politics/" class="category-2">POLITICS</a> <span>&bull;</span> <a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/08/breaking-ivanka-trump-attacked-assailant-knife/" title="BREAKING: Ivanka Trump Attacked By Assailant With Knife…">BREAKING: Ivanka Trump Attacked By Assailant With Knife…</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/08/breaking-ivanka-trump-attacked-assailant-knife/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1747 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/08/donald-trump-jr-fires-back-cnns-jim-acosta-internet-storm-follows/" title="Donald Trump Jr. Fires Back At CNN’s Jim Acosta – Internet Storm Follows…">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Donald_Trump_Jr-696x464-1-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/politics/" class="category-2">POLITICS</a> <span>&bull;</span> <a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/08/donald-trump-jr-fires-back-cnns-jim-acosta-internet-storm-follows/" title="Donald Trump Jr. Fires Back At CNN’s Jim Acosta – Internet Storm Follows…">Donald Trump Jr. Fires Back At CNN’s Jim Acosta – Internet Storm Follows…</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/08/donald-trump-jr-fires-back-cnns-jim-acosta-internet-storm-follows/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1743 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/07/1743/" title="Melania Trump Put’s Michelle Obama In Her Place After She Steps Out Of Line [WATCH]">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-06-at-6.49.27-PM-730x480-375x195.png" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/uncategorized/" class="category-1">Uncategorized</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/07/1743/" title="Melania Trump Put’s Michelle Obama In Her Place After She Steps Out Of Line [WATCH]">Melania Trump Put’s Michelle Obama In Her Place After She Steps Out Of Line [WATCH]</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/07/1743/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+						
+											
+												
+						<article class="vce-post vce-lay-b post-1740 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-u-s">
+
+ 		 	<div class="meta-image">			
+			<a href="http://uspoln.com/2017/07/07/bachmann-white-people-suffered-last-8-years-blacks-couple-years-slavery/" title="Bachmann: “White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery”">
+				<img width="375" height="195" src="http://uspoln.com/wp-content/uploads/2017/07/michelle-bachmann-645x325-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="" />							</a>
+		</div>
+		
+
+	<header class="entry-header">
+					<span class="meta-category"><a href="http://uspoln.com/category/politics/" class="category-2">POLITICS</a> <span>&bull;</span> <a href="http://uspoln.com/category/u-s/" class="category-3">U.S</a></span>
+				<h2 class="entry-title"><a href="http://uspoln.com/2017/07/07/bachmann-white-people-suffered-last-8-years-blacks-couple-years-slavery/" title="Bachmann: “White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery”">Bachmann: “White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery”</a></h2>
+		<div class="entry-meta"><div class="meta-item comments"><a href="http://uspoln.com/2017/07/07/bachmann-white-people-suffered-last-8-years-blacks-couple-years-slavery/#respond">Add Comment</a></div></div>	</header>
+
+	
+</article>						
+													</div>
+						
+										
+						<nav id="vce-pagination" class="vce-load-more">
+		<a href="http://uspoln.com/page/2/" > Load more</a>	</nav>
+
+				
+				
+					</div>
+				</div>
+
+				
+			
+		
+	</div>
+
+		<aside id="sidebar" class="sidebar right">
+		<div id="text-2" class="widget widget_text"><h4 class="widget-title">Like our page!</h4>			<div class="textwidget"><div class="fb-page" data-href="https://www.facebook.com/uspoln" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div></div>
+		</div><div class="vce-sticky"><div id="vce_posts_widget-13" class="widget vce_posts_widget"><h4 class="widget-title">Featured Posts</h4>
+		
+		<ul class="vce-post-big">
+
+			
+		 		<li>
+		 					 			
+		 			<a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/" class="featured_image_sidebar" title="WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller"><span class="vce-post-img"><img width="380" height="260" src="http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-380x260.jpg 380w, http://uspoln.com/wp-content/uploads/2017/07/Brennan-640x360-145x100.jpg 145w" sizes="(max-width: 380px) 100vw, 380px" /></span></a>
+		 			<div class="vce-posts-wrap">
+		 							 			<a href="http://uspoln.com/2017/07/27/watch-obamas-former-cia-director-brennan-calls-coup-trump-fires-mueller/" title="WATCH! Obama’s Former CIA Director Brennan Calls For A Coup If Trump Fires Mueller" class="vce-post-link">WATCH! Obama’s Former CIA Director Brennan Calls...</a>
+			 					 			</div>
+		 		</li>
+			
+		 		<li>
+		 					 			
+		 			<a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/" class="featured_image_sidebar" title="Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;"><span class="vce-post-img"><img width="380" height="260" src="http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-380x260.jpg 380w, http://uspoln.com/wp-content/uploads/2017/07/Trey-Gowdy-645x325-145x100.jpg 145w" sizes="(max-width: 380px) 100vw, 380px" /></span></a>
+		 			<div class="vce-posts-wrap">
+		 							 			<a href="http://uspoln.com/2017/07/13/trey-gowdy-drop-russia-examination-since-just-attempting-offer-assistance/" title="Trey Gowdy To Drop Russia Examination Since &#8220;They Were Just Attempting To Offer assistance&#8221;" class="vce-post-link">Trey Gowdy To Drop Russia Examination Since...</a>
+			 					 			</div>
+		 		</li>
+			
+		 		<li>
+		 					 			
+		 			<a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/" class="featured_image_sidebar" title="Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!"><span class="vce-post-img"><img width="380" height="260" src="http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-380x260.png" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-380x260.png 380w, http://uspoln.com/wp-content/uploads/2017/02/sarah-palin-645x325-145x100.png 145w" sizes="(max-width: 380px) 100vw, 380px" /></span></a>
+		 			<div class="vce-posts-wrap">
+		 							 			<a href="http://uspoln.com/2017/07/13/sarah-palin-case-youre-america-speak-american-way-since-forever/" title="Sarah Palin: &#8220;In case You&#8217;re In America, Speak American – The Way It&#8217;s Been Since Forever!" class="vce-post-link">Sarah Palin: &#8220;In case You&#8217;re In America...</a>
+			 					 			</div>
+		 		</li>
+			
+		 		<li>
+		 					 			
+		 			<a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/" class="featured_image_sidebar" title="Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”"><span class="vce-post-img"><img width="380" height="260" src="http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-380x260.jpg 380w, http://uspoln.com/wp-content/uploads/2017/07/Buzz-Aldrin-645x325-145x100.jpg 145w" sizes="(max-width: 380px) 100vw, 380px" /></span></a>
+		 			<div class="vce-posts-wrap">
+		 							 			<a href="http://uspoln.com/2017/07/10/trump-attacks-buzz-aldrin-back-fake-news-theres-no-proof-man-ever-came-close-moon/" title="Trump Attacks Buzz Aldrin Back: “It Was All Fake News, There’s No Proof That Man Ever Came Close To The Moon”" class="vce-post-link">Trump Attacks Buzz Aldrin Back: “It Was All Fake...</a>
+			 					 			</div>
+		 		</li>
+			
+		 		<li>
+		 					 			
+		 			<a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/" class="featured_image_sidebar" title="Best comeback ever? Cop replies to lawyer while on witness stand"><span class="vce-post-img"><img width="380" height="260" src="http://uspoln.com/wp-content/uploads/2017/07/Cop-1-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="" srcset="http://uspoln.com/wp-content/uploads/2017/07/Cop-1-380x260.jpg 380w, http://uspoln.com/wp-content/uploads/2017/07/Cop-1-145x100.jpg 145w" sizes="(max-width: 380px) 100vw, 380px" /></span></a>
+		 			<div class="vce-posts-wrap">
+		 							 			<a href="http://uspoln.com/2017/07/09/best-comeback-ever-cop-replies-lawyer-witness-stand/" title="Best comeback ever? Cop replies to lawyer while on witness stand" class="vce-post-link">Best comeback ever? Cop replies to lawyer while on...</a>
+			 					 			</div>
+		 		</li>
+			
+		  </ul>
+		
+		
+		</div></div>	</aside>
+
+</div>
+
+
+
+	<footer id="footer" class="site-footer">
+
+				<div class="container">
+			<div class="container-fix">
+										<div class="bit-3">
+									</div>
+							<div class="bit-3">
+									</div>
+							<div class="bit-3">
+									</div>
+						</div>
+		</div>
+		
+					<div class="container-full site-info">
+				<div class="container">
+											<div class="vce-wrap-left">
+							<p>Copyright &copy; 2017. </p>						</div>
+					
+											<div class="vce-wrap-right">
+														</div>
+						
+
+					
+			
+				</div>
+			</div>
+		
+
+	</footer>
+
+
+</div>
+</div>
+
+<a href="javascript:void(0)" id="back-top"><i class="fa fa-angle-up"></i></a>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=125784404168405";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/uspoln.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/plugins/social-polls-by-opinionstage/js/shortcodes.js?ver=18.2.1'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/imagesloaded.pkgd.min.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/owl.carousel.min.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/affix.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/jquery.matchHeight.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/jquery.fitvids.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/jquery.sidr.min.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/jquery.magnific-popup.min.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-includes/js/comment-reply.min.js?ver=4.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vce_js_settings = {"sticky_header":"1","sticky_header_offset":"700","sticky_header_logo":"","logo_retina":"","logo_mobile":"","rtl_mode":"0","ajax_url":"http:\/\/uspoln.com\/wp-admin\/admin-ajax.php","ajax_mega_menu":"1","mega_menu_slider":"1","mega_menu_subcats":"","lay_fa_grid_center":"","full_slider_autoplay":"5000","grid_slider_autoplay":"","fa_big_opacity":{"1":"0.5","2":"0.7"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://uspoln.com/wp-content/themes/voice/js/custom.js?ver=1.6'></script>
+<script type='text/javascript' src='http://uspoln.com/wp-includes/js/wp-embed.min.js?ver=4.8.1'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1112629802167457&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>

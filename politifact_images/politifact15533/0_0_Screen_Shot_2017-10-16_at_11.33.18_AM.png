@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://politicalmayhem.news/xmlrpc.php">
+    <title>Political Mayhem</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Political Mayhem &raquo; Feed" href="https://politicalmayhem.news/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/politicalmayhem.news\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://politicalmayhem.news/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://politicalmayhem.news/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-google-font-css' href='https://fonts.googleapis.com/css?family=Poppins&#038;ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-main-css' href='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/css/newspaper-lite.min.css?ver=1.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-style-css' href='https://politicalmayhem.news/wp-content/themes/newspaper-lite/style.css?ver=1.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='newspaper-lite-responsive-css' href='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/css/newspaper-lite-responsive.min.css?ver=1.0.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://politicalmayhem.news/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://politicalmayhem.news/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://politicalmayhem.news/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://politicalmayhem.news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://politicalmayhem.news/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+        <style type="text/css">
+            .category-button.mgs-cat-6 a { background: #dd3333}
+.category-button.mgs-cat-6 a:hover { background: #ab0101}
+.block-header.mgs-cat-6 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-6 .block-title { background:#dd3333 }
+.block-header.mgs-cat-6, #content .block-header.mgs-cat-6 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-6{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-6 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-6 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-6 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-6 { border-bottom-color: #dd3333 }
+.category-button.mgs-cat-7 a { background: #dd3333}
+.category-button.mgs-cat-7 a:hover { background: #ab0101}
+.block-header.mgs-cat-7 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-7 .block-title { background:#dd3333 }
+.block-header.mgs-cat-7, #content .block-header.mgs-cat-7 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-7{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-7 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-7 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-7 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-7 { border-bottom-color: #dd3333 }
+.category-button.mgs-cat-4 a { background: #dd3333}
+.category-button.mgs-cat-4 a:hover { background: #ab0101}
+.block-header.mgs-cat-4 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-4 .block-title { background:#dd3333 }
+.block-header.mgs-cat-4, #content .block-header.mgs-cat-4 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-4{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-4 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-4 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-4 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-4 { border-bottom-color: #dd3333 }
+.category-button.mgs-cat-2 a { background: #dd3333}
+.category-button.mgs-cat-2 a:hover { background: #ab0101}
+.block-header.mgs-cat-2 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-2 .block-title { background:#dd3333 }
+.block-header.mgs-cat-2, #content .block-header.mgs-cat-2 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-2{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-2 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-2 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-2 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-2 { border-bottom-color: #dd3333 }
+.category-button.mgs-cat-3 a { background: #dd3333}
+.category-button.mgs-cat-3 a:hover { background: #ab0101}
+.block-header.mgs-cat-3 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-3 .block-title { background:#dd3333 }
+.block-header.mgs-cat-3, #content .block-header.mgs-cat-3 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-3{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-3 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-3 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-3 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-3 { border-bottom-color: #dd3333 }
+.category-button.mgs-cat-1 a { background: #dd3333}
+.category-button.mgs-cat-1 a:hover { background: #ab0101}
+.block-header.mgs-cat-1 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-1 .block-title { background:#dd3333 }
+.block-header.mgs-cat-1, #content .block-header.mgs-cat-1 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-1{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-1 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-1 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-1 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-1 { border-bottom-color: #dd3333 }
+.category-button.mgs-cat-5 a { background: #dd3333}
+.category-button.mgs-cat-5 a:hover { background: #ab0101}
+.block-header.mgs-cat-5 { border-left: 2px solid #dd3333 }
+.block-header.mgs-cat-5 .block-title { background:#dd3333 }
+.block-header.mgs-cat-5, #content .block-header.mgs-cat-5 .block-title:after { border-bottom-color:#dd3333 }
+#content .block-header.mgs-cat-5{ background-color:#ab0101 }
+.rtl .block-header.mgs-cat-5 { border-left: none; border-right: 2px solid #dd3333 }
+.archive .page-header.mgs-cat-5 { background-color:#dd3333; border-left: 4px solid #dd3333 }
+.rtl.archive .page-header.mgs-cat-5 { border-left: none; border-right: 4px solid #dd3333 }
+#site-navigation ul li.mgs-cat-5 { border-bottom-color: #dd3333 }
+.navigation .nav-links a,.bttn,button,input[type='button'],input[type='reset'],input[type='submit'],.navigation .nav-links a:hover,.bttn:hover,button,input[type='button']:hover,input[type='reset']:hover,input[type='submit']:hover,.edit-link .post-edit-link, .reply .comment-reply-link,.home-icon,.search-main,.header-search-wrapper .search-form-main .search-submit,.mgs-slider-section .bx-controls a:hover,.widget_search .search-submit,.error404 .page-title,.archive.archive-classic .entry-title a:after,#mgs-scrollup,.widget_tag_cloud .tagcloud a:hover,.sub-toggle,#site-navigation ul > li:hover > .sub-toggle, #site-navigation ul > li.current-menu-item .sub-toggle, #site-navigation ul > li.current-menu-ancestor .sub-toggle{ background:#dd3333} .breaking_news_wrap .bx-controls-direction a, .breaking_news_wrap .bx-controls-direction a:hover:before{color:#fff;}
+.navigation .nav-links a,.bttn,button,input[type='button'],input[type='reset'],input[type='submit'],.widget_search .search-submit,.widget_tag_cloud .tagcloud a:hover{ border-color:#dd3333}
+.comment-list .comment-body ,.header-search-wrapper .search-form-main{ border-top-color:#dd3333}
+#site-navigation ul li,.header-search-wrapper .search-form-main:before{ border-bottom-color:#dd3333}
+.archive .page-header,.block-header, .widget .widget-title-wrapper, .related-articles-wrapper .widget-title-wrapper{ border-left-color:#dd3333}
+a,a:hover,a:focus,a:active,.entry-footer a:hover,.comment-author .fn .url:hover,#cancel-comment-reply-link,#cancel-comment-reply-link:before, .logged-in-as a,.top-menu ul li a:hover,#footer-navigation ul li a:hover,#site-navigation ul li a:hover,#site-navigation ul li.current-menu-item a,.mgs-slider-section .slide-title a:hover,.featured-post-wrapper .featured-title a:hover,.newspaper_lite_block_grid .post-title a:hover,.slider-meta-wrapper span:hover,.slider-meta-wrapper a:hover,.featured-meta-wrapper span:hover,.featured-meta-wrapper a:hover,.post-meta-wrapper > span:hover,.post-meta-wrapper span > a:hover ,.grid-posts-block .post-title a:hover,.list-posts-block .single-post-wrapper .post-content-wrapper .post-title a:hover,.column-posts-block .single-post-wrapper.secondary-post .post-content-wrapper .post-title a:hover,.widget a:hover::before,.widget li:hover::before,.entry-title a:hover,.entry-meta span a:hover,.post-readmore a:hover,.archive-classic .entry-title a:hover,
+            .archive-columns .entry-title a:hover,.related-posts-wrapper .post-title a:hover, .widget .widget-title a:hover,.related-articles-wrapper .related-title a:hover { color:#dd3333}
+#content .block-header,#content .widget .widget-title-wrapper,#content .related-articles-wrapper .widget-title-wrapper {background-color: #ff3d3d;}
+.block-header .block-title, .widget .widget-title, .related-articles-wrapper .related-title {background-color: #dd3333;}
+.block-header, .widget .widget-title-wrapper, .related-articles-wrapper .widget-title-wrapper {border-left-color: #dd3333;border-bottom-color: #dd3333}
+#content .block-header .block-title:after, #content .widget .widget-title:after, #content .related-articles-wrapper .related-title:after {border-bottom-color: #dd3333;border-bottom-color: #dd3333}
+.archive .page-header {background-color: #ff3d3d}
+#site-navigation ul li.current-menu-item a,.bx-default-pager .bx-pager-item a.active {border-color: #dd3333}
+.bottom-header-wrapper {border-color: #dd3333}
+.top-menu ul li, .newspaper-lite-ticker-wrapper ~ .top-header-section {border-color: #dd3333}
+.ticker-caption, .breaking_news_wrap.fade .bx-controls-direction a.bx-next:hover, .breaking_news_wrap.fade .bx-controls-direction a.bx-prev:hover {background-color: #dd3333}
+.ticker-content-wrapper .news-post a:hover, .newspaper-lite-carousel .item .carousel-content-wrapper a:hover{color: #dd3333}
+.newspaper-lite-carousel .item .carousel-content-wrapper h3 a:hover, body .newspaper-lite-carousel h3 a:hover, footer#colophon .newspaper-lite-carousel h3 a:hover, footer#colophon a:hover, .widget a:hover, .breaking_news_wrap .article-content.feature_image .post-title a:hover{color: #dd3333}
+.widget .owl-theme .owl-dots .owl-dot.active span{background: #dd3333}
+.rtl #content .block-header .block-title::after, .rtl #content .related-articles-wrapper .related-title::after, .rtl #content .widget .widget-title::after{border-right-color: #dd3333}
+#content .block-header, #content .related-articles-wrapper .widget-title-wrapper, #content .widget .widget-title-wrapper,
+			 #secondary .block-header, #secondary .widget .widget-title-wrapper, #secondary .related-articles-wrapper .widget-title-wrapper{background:none; background-color:transparent!important}
+#content .block-header .block-title:after, #content .related-articles-wrapper .related-title:after, #content .widget .widget-title:after{border:none}
+        </style>
+        	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel="icon" href="https://politicalmayhem.news/wp-content/uploads/2021/03/favicon.ico" sizes="32x32" />
+<link rel="icon" href="https://politicalmayhem.news/wp-content/uploads/2021/03/favicon.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://politicalmayhem.news/wp-content/uploads/2021/03/favicon.ico" />
+<meta name="msapplication-TileImage" content="https://politicalmayhem.news/wp-content/uploads/2021/03/favicon.ico" />
+</head>
+
+<body class="home blog wp-custom-logo default_skin hfeed boxed_layout right-sidebar">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>        <div id="page" class="site">
+                <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+        <header id="masthead" class="site-header">
+            <div class="custom-header">
+
+		<div class="custom-header-media">
+					</div>
+
+</div><!-- .custom-header -->
+                        <div class="newspaper-lite-ticker-wrapper">
+                <div class="mgs-container">
+                    <span class="ticker-caption">TRENDING NOW</span>
+                    <div class="ticker-content-wrapper">
+                        <ul id="mgs-newsTicker" class="cS-hidden">                                <li>
+                                    <div class="news-post"><a href="https://politicalmayhem.news/10-women-who-changed-the-way-we-see-politics-in-the-modern-world/">10 Women Who Changed the Way We See Politics in the Modern World</a>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="news-post"><a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/">7 Most Important Women in Politics 2020</a>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="news-post"><a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/">BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case</a>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="news-post"><a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/">Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason</a>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="news-post"><a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/">Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings</a>
+                                    </div>
+                                </li>
+                                </ul>                    </div><!-- .ticker-content-wrapper -->
+                    <div style="clear:both"></div>
+                </div><!-- .mgs-container -->
+            </div>
+                        <div class="top-header-section">
+                <div class="mgs-container">
+                    <div class="top-left-header">
+                                    <div class="date-section">
+                Wednesday, May 24, 2023            </div>
+                                    <nav id="top-header-navigation" class="top-navigation">
+                                                    </nav>
+                    </div>
+                                <div class="top-social-wrapper">
+                <span class="social-link"><a href="https://www.facebook.com/PoliticalMayhem" target="_blank"><i class="fa fa-facebook"></i></a></span><span class="social-link"><a href="https://twitter.com/mayhem_news" target="_blank"><i class="fa fa-twitter"></i></a></span><span class="social-link"><a href="https://www.instagram.com/politicalmayhemnews/" target="_blank"><i class="fa fa-instagram"></i></a></span>            </div><!-- .top-social-wrapper -->
+                            </div> <!-- mgs-container end -->
+            </div><!-- .top-header-section -->
+
+            <div class="logo-ads-wrapper clearfix">
+                <div class="mgs-container">
+                    <div class="site-branding">
+                        <a href="https://politicalmayhem.news/" class="custom-logo-link" rel="home" aria-current="page"><img width="1200" height="155" src="https://politicalmayhem.news/wp-content/uploads/2020/04/politicalmayhem-logo-wide.png" class="custom-logo" alt="Political Mayhem" decoding="async" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/politicalmayhem-logo-wide.png 1200w, https://politicalmayhem.news/wp-content/uploads/2020/04/politicalmayhem-logo-wide-300x39.png 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/politicalmayhem-logo-wide-1024x132.png 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/politicalmayhem-logo-wide-768x99.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>                                                </div><!-- .site-branding -->
+                                                <div class="header-ads-wrapper ">
+                                            </div><!-- .header-ads-wrapper -->
+                </div>
+            </div><!-- .logo-ads-wrapper -->
+
+            <div id="mgs-menu-wrap" class="bottom-header-wrapper clearfix">
+                <div class="mgs-container">
+                    <div class="home-icon"><a href="https://politicalmayhem.news/" rel="home"> <i
+                        class="fa fa-home"> </i> </a></div>
+                        <a href="javascript:void(0)" class="menu-toggle"> <i class="fa fa-navicon"> </i> </a>
+                        <nav id="site-navigation" class="main-navigation">
+                            <div class="menu"><ul><li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33 mgs-cat-3"><a href="https://politicalmayhem.news/category/politics/">Politics</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34 mgs-cat-5"><a href="https://politicalmayhem.news/category/us-news/">US News</a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35 mgs-cat-7"><a href="https://politicalmayhem.news/category/health-science/">Health &#038; Science</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36 mgs-cat-6"><a href="https://politicalmayhem.news/category/cops-criminals/">Cops &#038; Criminals</a></li>
+</ul></div>                        </nav><!-- #site-navigation -->
+                        <div class="header-search-wrapper">
+                            <span class="search-main"><i class="fa fa-search"></i></span>
+                            <div class="search-form-main clearfix">
+                                <form role="search" method="get" class="search-form" action="https://politicalmayhem.news/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                            </div>
+                        </div><!-- .header-search-wrapper -->
+                    </div><!-- .mgs-container -->
+                </div><!-- #mgs-menu-wrap -->
+
+
+            </header><!-- #masthead -->
+                        
+            <div id="content" class="site-content">
+                <div class="mgs-container">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-41" class="post-41 post type-post status-publish format-standard hentry category-politics">
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/10-women-who-changed-the-way-we-see-politics-in-the-modern-world/" rel="bookmark">10 Women Who Changed the Way We See Politics in the Modern World</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>Politics has always been a predominantly male sphere of activity. However, the number of women who has an impressive political influence increases every year. Do you think female politicians don’t use dating sites? You are mistaken and <a href="https://bebemur.com/">https://bebemur.com/</a> is a confirmation of this.</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/10-women-who-changed-the-way-we-see-politics-in-the-modern-world/" rel="bookmark"><time class="entry-date published" datetime="2020-04-19T23:02:00+03:00">April 19, 2020</time><time class="updated" datetime="2021-03-23T23:28:31+03:00">March 23, 2021</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on 10 Women Who Changed the Way We See Politics in the Modern World</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-38" class="post-38 post type-post status-publish format-standard has-post-thumbnail hentry category-politics">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/" title="7 Most Important Women in Politics 2020">
+					<figure><img width="1210" height="642" src="https://politicalmayhem.news/wp-content/uploads/2020/04/giacomo-ferroni-raU50Q_AcS0-unsplash-1210x642.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/" rel="bookmark">7 Most Important Women in Politics 2020</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>It has become stereotyped that women have nothing to do in politics. Men believe that they should sit at home and raise children. Great accomplishments must be left to men as they are stronger. However, history regularly refutes this thesis. It turns out that women regularly came to politics for hundreds of centuries, sometimes exerting [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/" rel="bookmark"><time class="entry-date published" datetime="2020-04-18T22:41:00+03:00">April 18, 2020</time><time class="updated" datetime="2020-12-23T13:39:51+03:00">December 23, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on 7 Most Important Women in Politics 2020</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-13" class="post-13 post type-post status-publish format-standard has-post-thumbnail hentry category-politics">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/" title="BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case">
+					<figure><img width="1068" height="279" src="https://politicalmayhem.news/wp-content/uploads/2020/04/breaking-pm-1068x279-1.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/breaking-pm-1068x279-1.jpg 1068w, https://politicalmayhem.news/wp-content/uploads/2020/04/breaking-pm-1068x279-1-300x78.jpg 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/breaking-pm-1068x279-1-1024x268.jpg 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/breaking-pm-1068x279-1-768x201.jpg 768w" sizes="(max-width: 1068px) 100vw, 1068px" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/" rel="bookmark">BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>The Senate Judiciary Committee has initiated an investigation regarding a Russian nuclear bribery case. The committee members are demanding that the FBI and other federal agencies reveal what they knew, if anything, about Russian agents giving out bribes prior to the Obama Administration in 2010 approving a deal to sell uranium to the Russians. The [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T23:30:35+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-12T23:32:22+03:00">April 12, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-20" class="post-20 post type-post status-publish format-standard has-post-thumbnail hentry category-cops-criminals category-us-news">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/" title="Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason">
+					<figure><img width="1068" height="278" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-37-1068x278-1.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-37-1068x278-1.jpg 1068w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-37-1068x278-1-300x78.jpg 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-37-1068x278-1-1024x267.jpg 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-37-1068x278-1-768x200.jpg 768w" sizes="(max-width: 1068px) 100vw, 1068px" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-6"><a
+                        href="https://politicalmayhem.news/category/cops-criminals/">Cops &amp; Criminals</a></span>
+                                            <span class="category-button mgs-cat-5"><a
+                        href="https://politicalmayhem.news/category/us-news/">US News</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/" rel="bookmark">Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>After 2 car accidents in 4 days, one of which injured a father and took the life of his 7-month old baby before the car drove into a house, a Somali native has been arrested, charged, and convicted of aggravated vehicular homicide and was then let free to roam around until her sentencing hearing. This [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T16:23:57+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-13T00:25:05+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-17" class="post-17 post type-post status-publish format-standard has-post-thumbnail hentry category-politics category-us-news">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/" title="Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings">
+					<figure><img width="1068" height="278" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-39-1068x278-1.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-39-1068x278-1.jpg 1068w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-39-1068x278-1-300x78.jpg 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-39-1068x278-1-1024x267.jpg 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-39-1068x278-1-768x200.jpg 768w" sizes="(max-width: 1068px) 100vw, 1068px" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                            <span class="category-button mgs-cat-5"><a
+                        href="https://politicalmayhem.news/category/us-news/">US News</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/" rel="bookmark">Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>The “take a knee” protest has reached council meetings and it is getting ridiculous. Four council members took a knee recently in Ann Arbor Michigan to show their support for the NFL players who have been the recent target of many American citizens for their blatant disrespect of the America anthem and flag. Really? Instead of [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T00:21:51+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-13T00:23:42+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-23" class="post-23 post type-post status-publish format-standard has-post-thumbnail hentry category-politics">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/anti-american-nfl-commissioner-announces-sick-new-policy-that-will-make-even-more-fans-leave/" title="Anti-American NFL Commissioner Announces Sick New Policy That Will Make Even More Fans Leave">
+					<figure><img width="1068" height="279" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Angry-fans-1068x279-1.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/Angry-fans-1068x279-1.jpg 1068w, https://politicalmayhem.news/wp-content/uploads/2020/04/Angry-fans-1068x279-1-300x78.jpg 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/Angry-fans-1068x279-1-1024x268.jpg 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/Angry-fans-1068x279-1-768x201.jpg 768w" sizes="(max-width: 1068px) 100vw, 1068px" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/anti-american-nfl-commissioner-announces-sick-new-policy-that-will-make-even-more-fans-leave/" rel="bookmark">Anti-American NFL Commissioner Announces Sick New Policy That Will Make Even More Fans Leave</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>As the National Football League and commissioner Roger Goodell suffer the financial consequences of allowing players to take a knee during the national anthem, it seems NFL officials and team owners have doubled down on their stupidity and will not penalize or force players to stand for the national anthem. This decision, which digs the [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/anti-american-nfl-commissioner-announces-sick-new-policy-that-will-make-even-more-fans-leave/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T00:15:19+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-13T00:27:15+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Anti-American NFL Commissioner Announces Sick New Policy That Will Make Even More Fans Leave</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-26" class="post-26 post type-post status-publish format-standard has-post-thumbnail hentry category-health-science category-politics category-us-news">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/planned-parenthood-president-gets-owned-after-tweeting-insane-thing-about-women-aborting-babies-on-mothers-day/" title="Planned Parenthood President Gets OWNED After Tweeting Insane Thing About Women Aborting Babies On Mother’s Day">
+					<figure><img width="1068" height="278" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-6-1068x278-1.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-6-1068x278-1.jpg 1068w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-6-1068x278-1-300x78.jpg 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-6-1068x278-1-1024x267.jpg 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-6-1068x278-1-768x200.jpg 768w" sizes="(max-width: 1068px) 100vw, 1068px" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-7"><a
+                        href="https://politicalmayhem.news/category/health-science/">Health &amp; Science</a></span>
+                                            <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                            <span class="category-button mgs-cat-5"><a
+                        href="https://politicalmayhem.news/category/us-news/">US News</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/planned-parenthood-president-gets-owned-after-tweeting-insane-thing-about-women-aborting-babies-on-mothers-day/" rel="bookmark">Planned Parenthood President Gets OWNED After Tweeting Insane Thing About Women Aborting Babies On Mother’s Day</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>The new Mother’s Day ‘gift’ crazy should be abortion? Well that is exactly what Cecile Richards, the President of Planned Parenthood, seems to think. This disgusting waste of human flesh should be banned from any and all interaction with children with her clone-like beliefs of Margret Sanger. Who says something like this and maintains any [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/planned-parenthood-president-gets-owned-after-tweeting-insane-thing-about-women-aborting-babies-on-mothers-day/" rel="bookmark"><time class="entry-date published" datetime="2017-05-15T00:28:04+03:00">May 15, 2017</time><time class="updated" datetime="2020-04-13T00:29:11+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Planned Parenthood President Gets OWNED After Tweeting Insane Thing About Women Aborting Babies On Mother’s Day</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+<article id="post-29" class="post-29 post type-post status-publish format-standard has-post-thumbnail hentry category-health-science">
+				<div class="post-image">
+				<a href="https://politicalmayhem.news/cyanide-bombs-are-being-planted-all-over-the-us-heres-what-we-know-so-far/" title="Cyanide Bombs Are Being Planted All Over The US— Here’s What We Know So Far">
+					<figure><img width="1068" height="278" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-11-1068x278-1.jpg" class="attachment-newspaper-lite-single-large size-newspaper-lite-single-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-11-1068x278-1.jpg 1068w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-11-1068x278-1-300x78.jpg 300w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-11-1068x278-1-1024x267.jpg 1024w, https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-11-1068x278-1-768x200.jpg 768w" sizes="(max-width: 1068px) 100vw, 1068px" /></figure>
+				</a>
+			</div>
+	
+	<div class="archive-desc-wrapper clearfix">
+		<header class="entry-header">
+			            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-7"><a
+                        href="https://politicalmayhem.news/category/health-science/">Health &amp; Science</a></span>
+                                        </div>
+                <h2 class="entry-title"><a href="https://politicalmayhem.news/cyanide-bombs-are-being-planted-all-over-the-us-heres-what-we-know-so-far/" rel="bookmark">Cyanide Bombs Are Being Planted All Over The US— Here’s What We Know So Far</a></h2>		</header><!-- .entry-header -->
+		<div class="entry-content">
+			<p>Government over-reach has been a big issue for years and it needs to be addressed in so many different avenues. The use of cyanide bombs to protect humans from predatory animals is one of them. These hidden and dangerous devices are just as dangerous to those that live around them than they are to the [&hellip;]</p>
+		</div><!-- .entry-content -->
+
+		<footer class="entry-footer">
+			<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/cyanide-bombs-are-being-planted-all-over-the-us-heres-what-we-know-so-far/" rel="bookmark"><time class="entry-date published" datetime="2017-03-25T00:29:00+03:00">March 25, 2017</time><time class="updated" datetime="2020-04-13T00:30:02+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Cyanide Bombs Are Being Planted All Over The US— Here’s What We Know So Far</span></span></span>			</div><!-- .entry-meta -->
+					</footer><!-- .entry-footer -->
+	</div><!-- .archive-desc-wrapper -->
+</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+		<section id="newspaper_lite_block_layout-3" class="widget newspaper_lite_block_layout">		<div class="block-layout-wrapper">
+								<div class="block-posts-wrapper clearfix mgs-column-wrapper layout2">
+			<div class="left-column-wrapper block-posts-block list-posts-block mgs-column-2">					<div class="single-post-wrapper clearfix primary-post">
+						<div class="post-thumb-wrapper">
+							<a href="https://politicalmayhem.news/10-women-who-changed-the-way-we-see-politics-in-the-modern-world/" title="10 Women Who Changed the Way We See Politics in the Modern World">
+								<figure></figure>
+							</a>
+						</div><!-- .post-thumb-wrapper -->
+						<div class="post-content-wrapper">
+							            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-3"><a
+                        href="https://politicalmayhem.news/category/politics/">Politics</a></span>
+                                        </div>
+                							<h3 class="post-title"><a href="https://politicalmayhem.news/10-women-who-changed-the-way-we-see-politics-in-the-modern-world/">10 Women Who Changed the Way We See Politics in the Modern World</a>
+							</h3>
+							<div class="post-meta-wrapper">
+								<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/10-women-who-changed-the-way-we-see-politics-in-the-modern-world/" rel="bookmark"><time class="entry-date published" datetime="2020-04-19T23:02:00+03:00">April 19, 2020</time><time class="updated" datetime="2021-03-23T23:28:31+03:00">March 23, 2021</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on 10 Women Who Changed the Way We See Politics in the Modern World</span></span></span>							</div>
+							<p>Politics has always been a predominantly male sphere of activity. However, the number of women who has an impressive political influence increases every year. Do you think female politicians don’t use dating sites? You are mistaken and <a href="https://bebemur.com/">https://bebemur.com/</a> is a confirmation of this.</p>
+						</div><!-- .post-meta-wrapper -->
+					</div><!-- .single-post-wrapper -->
+										<div class="single-post-wrapper clearfix secondary-post">
+						<div class="post-thumb-wrapper">
+							<a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/" title="7 Most Important Women in Politics 2020">
+								<figure><img width="322" height="230" src="https://politicalmayhem.news/wp-content/uploads/2020/04/giacomo-ferroni-raU50Q_AcS0-unsplash-322x230.jpg" class="attachment-newspaper-lite-block-thumb size-newspaper-lite-block-thumb wp-post-image" alt="" decoding="async" loading="lazy" /></figure>
+							</a>
+						</div><!-- .post-thumb-wrapper -->
+						<div class="post-content-wrapper">
+														<h3 class="post-title"><a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/">7 Most Important Women in Politics 2020</a>
+							</h3>
+							<div class="post-meta-wrapper">
+								<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/7-most-important-women-in-politics-2020/" rel="bookmark"><time class="entry-date published" datetime="2020-04-18T22:41:00+03:00">April 18, 2020</time><time class="updated" datetime="2020-12-23T13:39:51+03:00">December 23, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on 7 Most Important Women in Politics 2020</span></span></span>							</div>
+													</div><!-- .post-meta-wrapper -->
+					</div><!-- .single-post-wrapper -->
+										<div class="single-post-wrapper clearfix secondary-post">
+						<div class="post-thumb-wrapper">
+							<a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/" title="BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case">
+								<figure><img width="322" height="230" src="https://politicalmayhem.news/wp-content/uploads/2020/04/breaking-pm-1068x279-1-322x230.jpg" class="attachment-newspaper-lite-block-thumb size-newspaper-lite-block-thumb wp-post-image" alt="" decoding="async" loading="lazy" /></figure>
+							</a>
+						</div><!-- .post-thumb-wrapper -->
+						<div class="post-content-wrapper">
+														<h3 class="post-title"><a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/">BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case</a>
+							</h3>
+							<div class="post-meta-wrapper">
+								<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/breaking-senate-takes-first-step-to-punish-obama-for-his-role-in-russian-nuclear-bribery-case/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T23:30:35+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-12T23:32:22+03:00">April 12, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on BREAKING: Senate Takes First Step To Punish Obama For His Role In Russian Nuclear Bribery Case</span></span></span>							</div>
+													</div><!-- .post-meta-wrapper -->
+					</div><!-- .single-post-wrapper -->
+					</div><div class="right-column-wrapper block-posts-block list-posts-block mgs-column-2">					<div class="single-post-wrapper clearfix primary-post">
+						<div class="post-thumb-wrapper">
+							<a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/" title="Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason">
+								<figure><img width="464" height="278" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-37-1068x278-1-464x278.jpg" class="attachment-newspaper-lite-block-medium size-newspaper-lite-block-medium wp-post-image" alt="" decoding="async" loading="lazy" /></figure>
+							</a>
+						</div><!-- .post-thumb-wrapper -->
+						<div class="post-content-wrapper">
+							            <div class="post-cat-list">
+                                    <span class="category-button mgs-cat-6"><a
+                        href="https://politicalmayhem.news/category/cops-criminals/">Cops &amp; Criminals</a></span>
+                                            <span class="category-button mgs-cat-5"><a
+                        href="https://politicalmayhem.news/category/us-news/">US News</a></span>
+                                        </div>
+                							<h3 class="post-title"><a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/">Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason</a>
+							</h3>
+							<div class="post-meta-wrapper">
+								<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/illegal-burka-clad-woman-ploughs-over-american-baby-gets-away-with-crime-for-1-startling-reason/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T16:23:57+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-13T00:25:05+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Illegal Burka Clad Woman Ploughs Over American Baby, Gets Away With Crime For 1 Startling Reason</span></span></span>							</div>
+							<p>After 2 car accidents in 4 days, one of which injured a father and took the life of his 7-month old baby before the car drove into a house, a Somali native has been arrested, charged, and convicted of aggravated vehicular homicide and was then let free to roam around until her sentencing hearing. This [&hellip;]</p>
+						</div><!-- .post-meta-wrapper -->
+					</div><!-- .single-post-wrapper -->
+										<div class="single-post-wrapper clearfix secondary-post">
+						<div class="post-thumb-wrapper">
+							<a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/" title="Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings">
+								<figure><img width="322" height="230" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Untitled-39-1068x278-1-322x230.jpg" class="attachment-newspaper-lite-block-thumb size-newspaper-lite-block-thumb wp-post-image" alt="" decoding="async" loading="lazy" /></figure>
+							</a>
+						</div><!-- .post-thumb-wrapper -->
+						<div class="post-content-wrapper">
+														<h3 class="post-title"><a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/">Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings</a>
+							</h3>
+							<div class="post-meta-wrapper">
+								<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/michigan-city-council-members-start-disgusting-anti-american-trend-before-meetings/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T00:21:51+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-13T00:23:42+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Michigan City Council Members Start Disgusting Anti-American Trend Before Meetings</span></span></span>							</div>
+													</div><!-- .post-meta-wrapper -->
+					</div><!-- .single-post-wrapper -->
+										<div class="single-post-wrapper clearfix secondary-post">
+						<div class="post-thumb-wrapper">
+							<a href="https://politicalmayhem.news/anti-american-nfl-commissioner-announces-sick-new-policy-that-will-make-even-more-fans-leave/" title="Anti-American NFL Commissioner Announces Sick New Policy That Will Make Even More Fans Leave">
+								<figure><img width="322" height="230" src="https://politicalmayhem.news/wp-content/uploads/2020/04/Angry-fans-1068x279-1-322x230.jpg" class="attachment-newspaper-lite-block-thumb size-newspaper-lite-block-thumb wp-post-image" alt="" decoding="async" loading="lazy" /></figure>
+							</a>
+						</div><!-- .post-thumb-wrapper -->
+						<div class="post-content-wrapper">
+														<h3 class="post-title"><a href="https://politicalmayhem.news/anti-american-nfl-commissioner-announces-sick-new-policy-that-will-make-even-more-fans-leave/">Anti-American NFL Commissioner Announces Sick New Policy That Will Make Even More Fans Leave</a>
+							</h3>
+							<div class="post-meta-wrapper">
+								<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://politicalmayhem.news/anti-american-nfl-commissioner-announces-sick-new-policy-that-will-make-even-more-fans-leave/" rel="bookmark"><time class="entry-date published" datetime="2017-10-18T00:15:19+03:00">October 18, 2017</time><time class="updated" datetime="2020-04-13T00:27:15+03:00">April 13, 2020</time></a></span><span class="byline"> <span class="screen-reader-text">Author</span> <span class="author vcard"><a class="url fn n" href="https://politicalmayhem.news/author/admin/">politicalmayhem</a></span></span>								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Anti-American NFL Commissioner Announces Sick New Policy That Will Make Even More Fans Leave</span></span></span>							</div>
+													</div><!-- .post-meta-wrapper -->
+					</div><!-- .single-post-wrapper -->
+					</div>		</div><!-- .block-posts-wrapper -->
+		
+
+		</div><!-- .block-layout-wrapper-->
+		</section>	</aside><!-- #secondary -->
+		</div><!--.mgs-container-->
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+			<div id="top-footer" class="footer-widgets-wrapper clearfix  column3">
+	<div class="mgs-container">
+		<div class="footer-widgets-area clearfix">
+            <div class="mgs-footer-widget-wrapper clearfix">
+            		<div class="mgs-first-footer-widget mgs-footer-widget">
+            			            		</div>
+        		                    <div class="mgs-second-footer-widget mgs-footer-widget">
+            			<section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">There are a number of tracking apps available that allow you to track a phone without permission <a href="https://phonespyappsreview.com/">https://phonespyappsreview.com/</a> . These apps offer features such as location tracking, remote wipe, and parental controls. Additionally, they are usually free or have a small one-time fee. When choosing a tracking app, be sure to read the terms and conditions to make sure it meets your needs and is secure.
+</div></section>            		</div>
+                                                    <div class="mgs-third-footer-widget mgs-footer-widget">
+                                           </div>
+                                            </div><!-- .mgs-footer-widget-wrapper -->
+		</div><!-- .footer-widgets-area -->
+	</div><!-- .nt-container -->
+</div><!-- #top-footer -->			<div id="bottom-footer" class="sub-footer-wrapper clearfix">
+				<div class="mgs-container">
+					<div class="site-info">
+						<span class="copy-info">© Copyright Political Mayhem</span>
+						<span class="sep"> | </span>
+						Newspaper Lite by <a href="http://themecentury.com/" >themecentury</a>.					</div><!-- .site-info -->
+					<nav id="footer-navigation" class="sub-footer-navigation" >
+											</nav>
+				</div>
+			</div><!-- .sub-footer-wrapper -->
+	</footer><!-- #colophon -->
+	<div id="mgs-scrollup" class="animated arrow-hide"><i class="fa fa-chevron-up"></i></div>
+</div><!-- #page -->
+
+<script type='text/javascript' src='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/lib/bxslider/jquery.bxslider.min.js?ver=4.2.12' id='jquery-bxslider-js'></script>
+<script type='text/javascript' src='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/lib/sticky/jquery.sticky.js?ver=20150416' id='jquery-sticky-js'></script>
+<script type='text/javascript' src='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/lib/sticky/sticky-setting.js?ver=20150309' id='newspaper-lite-sticky-menu-setting-js'></script>
+<script type='text/javascript' src='https://politicalmayhem.news/wp-content/themes/newspaper-lite/assets/js/custom-script.min.js?ver=1.0.7' id='newspaper-lite-custom-script-js'></script>
+
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 0/0 objects using disk
+Page Caching using disk: enhanced 
+
+Served from: politicalmayhem.news @ 2023-05-24 10:02:25 by W3 Total Cache
+-->

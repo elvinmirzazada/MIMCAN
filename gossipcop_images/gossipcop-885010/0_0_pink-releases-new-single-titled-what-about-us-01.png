@@ -1,0 +1,1434 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html class="no-js g1-off-outside lt-ie10 lt-ie9" id="ie8" lang="en-GB"><![endif]-->
+<!--[if IE 9]>
+<html class="no-js g1-off-outside lt-ie10" id="ie9" lang="en-GB"><![endif]-->
+<!--[if !IE]><!-->
+<html class="no-js g1-off-outside" lang="en-GB"><!--<![endif]-->
+<head>
+	<meta charset="UTF-8"/>
+	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="pingback" href="https://celebmix.com/xmlrpc.php"/>
+
+	<meta name='robots' content='noindex, follow' />
+
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, height=device-height, width=device-width" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - CelebMix</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page not found - CelebMix" />
+	<meta property="og:site_name" content="CelebMix" />
+	
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<link rel="alternate" type="application/rss+xml" title="CelebMix &raquo; Feed" href="https://celebmix.com/feed/" />
+
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='jetpack-videopress-video-block-view-css' href='https://celebmix.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/build/block-editor/blocks/video/view.css?minify=false&#038;ver=34ae973733627b74a14e' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://celebmix.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://celebmix.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://celebmix.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='adace-style-css' href='https://celebmix.com/wp-content/plugins/a014323309532ecbc661c228f7444989-plugin/assets/css/style.min.css?ver=1.3.25' type='text/css' media='all' />
+<link rel='stylesheet' id='shoppable-images-css-css' href='https://celebmix.com/wp-content/plugins/a014323309532ecbc661c228f7444989-plugin/assets/css/shoppable-images-front.min.css?ver=1.3.25' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css' href='https://celebmix.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://celebmix.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://celebmix.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='g1-main-css' href='https://celebmix.com/wp-content/themes/bimber/css/9.1.1/styles/bunchy/all-light.min.css?ver=9.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-google-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C500%2C600%2C700%2C900%7CRoboto+Condensed%3A400%2C300%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext&#038;display=swap&#038;ver=9.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bimber-mashshare-css' href='https://celebmix.com/wp-content/themes/bimber/css/9.1.1/styles/bunchy/mashshare-light.min.css?ver=9.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://celebmix.com/wp-content/plugins/jetpack/css/jetpack.css?ver=12.2' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+
+
+<script data-jetpack-boost="ignore" type='application/json' id='wpp-json'>
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/celebmix.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","api_url":"https:\/\/celebmix.com\/wp-json\/wordpress-popular-posts","ID":0,"token":"0f6b905fc5","lang":0,"debug":0}
+</script>
+
+
+<link rel="https://api.w.org/" href="https://celebmix.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://celebmix.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://celebmix.com/wp-includes/wlwmanifest.xml" />
+<link rel="preload" href="https://celebmix.com/wp-content/plugins/g1-socials/css/iconfont/fonts/g1-socials.woff" as="font" type="font/woff" crossorigin="anonymous">	<style>img#wpstats{display:none}</style>
+		            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-placeholder,.wpp-widget-block-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            	<style>
+	@font-face {
+		font-family: "bimber";
+					src:url("https://celebmix.com/wp-content/themes/bimber/css/9.1.1/bunchy/fonts/bimber.eot");
+			src:url("https://celebmix.com/wp-content/themes/bimber/css/9.1.1/bunchy/fonts/bimber.eot?#iefix") format("embedded-opentype"),
+			url("https://celebmix.com/wp-content/themes/bimber/css/9.1.1/bunchy/fonts/bimber.woff") format("woff"),
+			url("https://celebmix.com/wp-content/themes/bimber/css/9.1.1/bunchy/fonts/bimber.ttf") format("truetype"),
+			url("https://celebmix.com/wp-content/themes/bimber/css/9.1.1/bunchy/fonts/bimber.svg#bimber") format("svg");
+						font-weight: normal;
+		font-style: normal;
+		font-display: block;
+	}
+	</style>
+		<style type="text/css" media="screen" id="g1-dynamic-styles">
+		:root {
+	--g1-layout-bg-color: #e6e6e6;
+}
+body.g1-layout-boxed .g1-body-inner {
+	background-color: #e6e6e6;
+	background-color: var(--g1-layout-bg-color);
+}
+
+:root.g1-skinmode {
+	--g1-layout-bg-color: #333333;
+}
+
+
+.g1-layout-boxed .g1-row-layout-page {
+max-width: 1212px;
+}
+
+/* Global Color Scheme */
+a,
+.entry-title > a:hover,
+.entry-meta a:hover,
+.menu-item > a:hover,
+.current-menu-item > a,
+.mtm-drop-expanded > a,
+.g1-nav-single-prev > a > span:before,
+.g1-nav-single-next > a > span:after,
+.g1-nav-single-prev > a:hover > strong,
+.g1-nav-single-prev > a:hover > span,
+.g1-nav-single-next > a:hover > strong,
+.g1-nav-single-next > a:hover > span,
+.mashsb-count,
+.archive-title:before,
+.snax .snax-item-title > a:hover,
+.woocommerce .star-rating span::before,
+.woocommerce-page .star-rating span::before {
+color: #bd2e9f;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+button,
+.g1-button-solid,
+.g1-button-solid:hover,
+.g1-arrow-solid,
+.entry-categories .entry-category:hover, .author-link,
+.author-info .author-link,
+.g1-box-icon,
+.snax .snax-formats .snax-format:hover,
+.entry-badge,
+a.g1-arrow,
+a.g1-arrow:hover,
+.g1-collection-ticker .g1-collection-title,
+.wyr-reaction:hover .wyr-reaction-button,
+.wyr-reaction-voted .wyr-reaction-button,
+.wyr-reaction .wyr-reaction-bar {
+border-color: #bd2e9f;
+background-color: #bd2e9f;
+color: #ffffff;
+}
+
+
+
+.entry-counter:before {
+border-color: #bd2e9f;
+background-color: #bd2e9f;
+color: #ffffff;
+}
+
+
+
+.g1-quick-nav-tabs .menu-item-type-g1-trending > a,
+.entry-flag-trending {
+border-color: #bd2e9f;
+background-color: #bd2e9f;
+color: #ffffff;
+}
+
+.g1-quick-nav-tabs .menu-item-type-g1-hot > a,
+.entry-flag-hot {
+border-color: #bd2e9f;
+background-color: #bd2e9f;
+color: #ffffff;
+}
+
+.g1-quick-nav-tabs .menu-item-type-g1-popular > a,
+.entry-flag-popular {
+border-color: #bd2e9f;
+background-color: #bd2e9f;
+color: #ffffff;
+}
+
+.entry-flag-members_only {
+border-color: #ff0036;
+background-color: #ff0036;
+color: #ffffff;
+}
+
+.entry-flag-coupon {
+border-color: #ff0036;
+background-color: #ff0036;
+color: #ffffff;
+}
+
+.g1-featured-without-title .entry-tpl-gridxs .entry-header {
+	background-color: transparent;
+	background-image: linear-gradient(to bottom right, rgba(189,46, 159, 0.8 ), rgba(61,175, 179, 0.8 ));
+}
+
+
+
+
+
+
+
+
+
+
+
+		.entry-categories .entry-category-item-42947{
+					}
+		.entry-categories .entry-category-item-10685{
+					}
+		.entry-categories .entry-category-item-1{
+					}
+		.entry-categories .entry-category-item-45137{
+					}
+		.entry-categories .entry-category-item-45136{
+					}
+		.entry-categories .entry-category-item-46112{
+					}
+
+.member-header .mycred-my-rank:after {
+	content:"Rank";
+}
+/*customizer_preview_margins*/
+
+
+
+
+@media only screen and ( min-width: 801px ) {
+	.g1-hb-row-normal .g1-id {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+	.g1-hb-row-normal .g1-quick-nav {
+		margin-top: 2px;
+		margin-bottom: 2px;
+	}
+}
+
+
+.g1-hb-row-mobile .g1-id {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.g1-hb-row-normal .g1-primary-nav {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/*customizer_preview_margins_end*/
+
+
+	:root {
+		--g1-hba-itxt-color:#666666;
+		--g1-hba-atxt-color:#bd2e9f;
+		--g1-hba-bg-color:#ffffff;
+		--g1-hba-gradient-color:#ffffff;
+		--g1-hba-border-color:#ff0000;
+
+		--g1-hba-2-itxt-color:#ffffff;
+		--g1-hba-2-bg-color:#000000;
+		--g1-hba-2-border-color:#000000;
+	}
+
+	.g1-hb-row-a .site-description,
+	.g1-hb-row-a .g1-hb-search-form .search-field,
+	.g1-hb-row-a .g1-hb-search-form .search-submit,
+	.g1-hb-row-a .menu-item > a,
+	.g1-hb-row-a .g1-hamburger,
+	.g1-hb-row-a .g1-drop-toggle,
+	.g1-hb-row-a .g1-socials-item-link {
+		color:#666666;
+		color:var(--g1-hba-itxt-color);
+	}
+
+	.g1-hb-row-a .g1-row-background {
+		
+
+		background-color: #ffffff;
+		background-color: var(--g1-hba-bg-color);
+		background-image: linear-gradient(to right, #ffffff, #ffffff);
+		background-image: linear-gradient(to right, var(--g1-hba-bg-color), var(--g1-hba-gradient-color));
+	}
+
+	.g1-hb-row-a .site-title,
+	.g1-hb-row-a .menu-item:hover > a,
+	.g1-hb-row-a .current-menu-item > a,
+	.g1-hb-row-a .current-menu-ancestor > a,
+	.g1-hb-row-a .menu-item-object-post_tag > a:before,
+	.g1-hb-row-a .g1-socials-item-link:hover {
+		color:#bd2e9f;
+		color:var(--g1-hba-atxt-color);
+	}
+
+	.g1-hb-row-a .g1-drop-toggle-badge,
+	.g1-hb-row-a .snax-button-create,
+	.g1-hb-row-a .snax-button-create:hover {
+		border-color:#000000;
+		border:var(--g1-hba-2-bg-color);
+		background-color:#000000;
+		background-color:var(--g1-hba-2-bg-color);
+		color:#ffffff;
+		color:var(--g1-hba-2-itxt-color);
+	}
+
+	.g1-skinmode {
+		--g1-hba-itxt-color:#ffffff;
+		--g1-hba-atxt-color:#808080;
+		--g1-hba-bg-color:#000000;
+		--g1-hba-gradient-color:#000000;
+		--g1-hba-border-color:#1a1a1a;
+	}
+	:root {
+		--g1-hbb-itxt-color:#ffffff;
+		--g1-hbb-atxt-color:#ffffff;
+		--g1-hbb-bg-color:#bd2e9f;
+		--g1-hbb-gradient-color:#3dafb3;
+		--g1-hbb-border-color:#ff0000;
+
+		--g1-hbb-2-itxt-color:#ffffff;
+		--g1-hbb-2-bg-color:#000000;
+		--g1-hbb-2-border-color:#000000;
+	}
+
+	.g1-hb-row-b .site-description,
+	.g1-hb-row-b .g1-hb-search-form .search-field,
+	.g1-hb-row-b .g1-hb-search-form .search-submit,
+	.g1-hb-row-b .menu-item > a,
+	.g1-hb-row-b .g1-hamburger,
+	.g1-hb-row-b .g1-drop-toggle,
+	.g1-hb-row-b .g1-socials-item-link {
+		color:#ffffff;
+		color:var(--g1-hbb-itxt-color);
+	}
+
+	.g1-hb-row-b .g1-row-background {
+		
+
+		background-color: #bd2e9f;
+		background-color: var(--g1-hbb-bg-color);
+		background-image: linear-gradient(to right, #bd2e9f, #3dafb3);
+		background-image: linear-gradient(to right, var(--g1-hbb-bg-color), var(--g1-hbb-gradient-color));
+	}
+
+	.g1-hb-row-b .site-title,
+	.g1-hb-row-b .menu-item:hover > a,
+	.g1-hb-row-b .current-menu-item > a,
+	.g1-hb-row-b .current-menu-ancestor > a,
+	.g1-hb-row-b .menu-item-object-post_tag > a:before,
+	.g1-hb-row-b .g1-socials-item-link:hover {
+		color:#ffffff;
+		color:var(--g1-hbb-atxt-color);
+	}
+
+	.g1-hb-row-b .g1-drop-toggle-badge,
+	.g1-hb-row-b .snax-button-create,
+	.g1-hb-row-b .snax-button-create:hover {
+		border-color:#000000;
+		border:var(--g1-hbb-2-bg-color);
+		background-color:#000000;
+		background-color:var(--g1-hbb-2-bg-color);
+		color:#ffffff;
+		color:var(--g1-hbb-2-itxt-color);
+	}
+
+	.g1-skinmode {
+		--g1-hbb-itxt-color:#ffffff;
+		--g1-hbb-atxt-color:#808080;
+		--g1-hbb-bg-color:#000000;
+		--g1-hbb-gradient-color:#000000;
+		--g1-hbb-border-color:#1a1a1a;
+	}
+	:root {
+		--g1-hbc-itxt-color:#ffffff;
+		--g1-hbc-atxt-color:#ffffff;
+		--g1-hbc-bg-color:#bd2e9f;
+		--g1-hbc-gradient-color:#bd2e9f;
+		--g1-hbc-border-color:#ff0000;
+
+		--g1-hbc-2-itxt-color:#ffffff;
+		--g1-hbc-2-bg-color:#000000;
+		--g1-hbc-2-border-color:#000000;
+	}
+
+	.g1-hb-row-c .site-description,
+	.g1-hb-row-c .g1-hb-search-form .search-field,
+	.g1-hb-row-c .g1-hb-search-form .search-submit,
+	.g1-hb-row-c .menu-item > a,
+	.g1-hb-row-c .g1-hamburger,
+	.g1-hb-row-c .g1-drop-toggle,
+	.g1-hb-row-c .g1-socials-item-link {
+		color:#ffffff;
+		color:var(--g1-hbc-itxt-color);
+	}
+
+	.g1-hb-row-c .g1-row-background {
+		
+
+		background-color: #bd2e9f;
+		background-color: var(--g1-hbc-bg-color);
+		background-image: linear-gradient(to right, #bd2e9f, #bd2e9f);
+		background-image: linear-gradient(to right, var(--g1-hbc-bg-color), var(--g1-hbc-gradient-color));
+	}
+
+	.g1-hb-row-c .site-title,
+	.g1-hb-row-c .menu-item:hover > a,
+	.g1-hb-row-c .current-menu-item > a,
+	.g1-hb-row-c .current-menu-ancestor > a,
+	.g1-hb-row-c .menu-item-object-post_tag > a:before,
+	.g1-hb-row-c .g1-socials-item-link:hover {
+		color:#ffffff;
+		color:var(--g1-hbc-atxt-color);
+	}
+
+	.g1-hb-row-c .g1-drop-toggle-badge,
+	.g1-hb-row-c .snax-button-create,
+	.g1-hb-row-c .snax-button-create:hover {
+		border-color:#000000;
+		border:var(--g1-hbc-2-bg-color);
+		background-color:#000000;
+		background-color:var(--g1-hbc-2-bg-color);
+		color:#ffffff;
+		color:var(--g1-hbc-2-itxt-color);
+	}
+
+	.g1-skinmode {
+		--g1-hbc-itxt-color:#ffffff;
+		--g1-hbc-atxt-color:#808080;
+		--g1-hbc-bg-color:#000000;
+		--g1-hbc-gradient-color:#000000;
+		--g1-hbc-border-color:#1a1a1a;
+	}
+
+:root {
+	--g1-canvas-itxt-color:#666666;
+	--g1-canvas-atxt-color:#bd2e9f;
+	--g1-canvas-bg-color:#ffffff;
+	--g1-canvas-2-itxt-color:#ffffff;
+	--g1-canvas-2-bg-color:#3dafb3;
+	--g1-canvas-bg-image:url();
+	--g1-canvas-bg-size:auto;
+	--g1-canvas-bg-repeat:no-repeat;
+	--g1-canvas-bg-position:top left;
+	--g1-canvas-bg-opacity:1;
+}
+
+
+.g1-canvas-content,
+.g1-canvas-toggle,
+.g1-canvas-content .menu-item > a,
+.g1-canvas-content .g1-hamburger,
+.g1-canvas-content .g1-drop-toggle,
+.g1-canvas-content .g1-socials-item-link{
+	color:#666666;
+	color:var(--g1-canvas-itxt-color);
+}
+
+.g1-canvas-content .menu-item:hover > a,
+.g1-canvas-content .current-menu-item > a,
+.g1-canvas-content .current-menu-ancestor > a,
+.g1-canvas-content .menu-item-object-post_tag > a:before,
+.g1-canvas-content .g1-socials-item-link:hover {
+	color:#bd2e9f;
+	color:var(--g1-canvas-atxt-color);
+}
+
+.g1-canvas-global {
+	background-color:#ffffff;
+	background-color:var(--g1-canvas-bg-color);
+
+	}
+
+.g1-canvas-background,
+.g1-canvas-background.lazyloaded {
+		background-image:url();
+		background-image:var(--g1-canvas-bg-image);
+		background-size:auto;
+		background-size:var(--g1-canvas-bg-size);
+		background-repeat:no-repeat;
+		background-repeat:var(--g1-canvas-bg-repeat);
+		background-position:top left;
+		background-position:var(--g1-canvas-bg-position);
+		opacity:1;
+		opacity:var(--g1-canvas-bg-opacity);
+}
+.g1-canvas-background.lazyload,
+.g1-canvas-background.lazyloading {
+	opacity: 0;
+}
+
+
+.g1-canvas-content .snax-button-create {
+	border-color:#3dafb3;
+	border-color:var(--g1-canvas-2-bg-color);
+	background-color:#3dafb3;
+	background-color:var(--g1-canvas-2-bg-color);
+	color:#ffffff;
+	color:var(--g1-canvas-2-itxt-color);
+}
+
+.g1-skinmode {
+	--g1-canvas-itxt-color:#ffffff;
+	--g1-canvas-atxt-color:#ff0036;
+	--g1-canvas-bg-color:#000000;
+}
+
+
+:root {
+	--g1-submenu-rtxt-color: #666666;
+	--g1-submenu-atxt-color: #bd2e9f;
+	--g1-submenu-bg-color: #ffffff;
+}
+
+/*customizer_preview_submenu*/
+.g1-hb-row .sub-menu {
+border-color: #ffffff;
+border-color: var(--g1-submenu-bg-color);
+background-color: #ffffff;
+background-color: var(--g1-submenu-bg-color);
+}
+
+.g1-hb-row .sub-menu .menu-item > a {
+color: #666666;
+color: var(--g1-submenu-rtxt-color);
+}
+
+.g1-hb-row .g1-link-toggle {
+color:#ffffff;
+color:var(--g1-submenu-bg-color);
+}
+
+.g1-hb-row .sub-menu .menu-item:hover > a,
+.g1-hb-row .sub-menu .current-menu-item > a,
+.g1-hb-row .sub-menu .current-menu-ancestor > a {
+color: #bd2e9f;
+color: var(--g1-submenu-atxt-color);
+}
+/*customizer_preview_submenu_row_end*/
+
+.g1-skinmode {
+	--g1-submenu-bg-color: #000000;
+	--g1-submenu-rtxt-color: #999999;
+	--g1-submenu-atxt-color: #ff0036;
+}
+
+
+
+
+:root {
+--g1-footer-itxt-color:#000000;
+--g1-footer-rtxt-color:#666666;
+--g1-footer-mtxt-color:#999999;
+--g1-footer-atxt-color:#bd2e9f;
+--g1-footer-bg-color:#f2f2f2;
+}
+
+
+/* Prefooter Theme Area */
+.g1-prefooter > .g1-row-background,
+.g1-prefooter .g1-current-background {
+	background-color:#f2f2f2;
+	background-color:var(--g1-footer-bg-color);
+}
+
+.g1-prefooter h1,
+.g1-prefooter h2,
+.g1-prefooter h3,
+.g1-prefooter h4,
+.g1-prefooter h5,
+.g1-prefooter h6,
+.g1-prefooter .g1-mega,
+.g1-prefooter .g1-alpha,
+.g1-prefooter .g1-beta,
+.g1-prefooter .g1-gamma,
+.g1-prefooter .g1-delta,
+.g1-prefooter .g1-epsilon,
+.g1-prefooter .g1-zeta,
+.g1-prefooter blockquote,
+.g1-prefooter .widget_recent_entries a,
+.g1-prefooter .widget_archive a,
+.g1-prefooter .widget_categories a,
+.g1-prefooter .widget_meta a,
+.g1-prefooter .widget_pages a,
+.g1-prefooter .widget_recent_comments a,
+.g1-prefooter .widget_nav_menu .menu a {
+color:#000000;
+color:var(--g1-footer-itxt-color);
+}
+
+.g1-prefooter {
+color:#666666;
+color:var(--g1-footer-rtxt-color);
+}
+
+.g1-prefooter .entry-meta {
+color:#999999;
+color:var(--g1-footer-mtxt-color);
+}
+
+.g1-prefooter input,
+.g1-prefooter select,
+.g1-prefooter textarea {
+border-color: #bfbfbf;
+}
+
+.g1-prefooter input[type="submit"],
+.g1-prefooter input[type="reset"],
+.g1-prefooter input[type="button"],
+.g1-prefooter button,
+.g1-prefooter .g1-button-solid,
+.g1-prefooter .g1-button-solid:hover,
+.g1-prefooter .g1-box-icon {
+border-color: #bd2e9f;
+background-color: #bd2e9f;
+color: #ffffff;
+}
+
+.g1-prefooter .g1-button-simple {
+	border-color: #000000;
+	color: #000000;
+}
+
+
+/* Footer Theme Area */
+.g1-footer > .g1-row-background,
+.g1-footer .g1-current-background {
+background-color:#f2f2f2;
+background-color:var(--g1-footer-bg-color);
+}
+
+
+
+
+
+.g1-footer {
+color:#666666;
+color:var(--g1-footer-rtxt-color);
+}
+
+.g1-footer-text {
+color: #999999;
+color:var(--g1-footer-mtxt-color);
+}
+
+.g1-footer a:hover,
+.g1-footer-nav a:hover {
+color:#bd2e9f;
+color:var(--g1-footer-atxt-color);
+}
+
+.g1-footer .current-menu-item > a {
+color:#000000;
+color:var(--g1-footer-itxt-color);
+}
+
+
+
+
+
+
+
+
+/*customizer_preview_footer*/
+/*customizer_preview_footer_end*/
+
+
+.g1-skinmode {
+--g1-footer-itxt-color:#ffffff;
+--g1-footer-rtxt-color:#999999;
+--g1-footer-mtxt-color:#666666;
+--g1-footer-atxt-color:#ff0036;
+--g1-footer-bg-color:#000000;
+}
+.g1-dark { color: rgba(255, 255, 255, 0.8); }
+
+.g1-dark h1,
+.g1-dark h2,
+.g1-dark h3,
+.g1-dark h4,
+.g1-dark h5,
+.g1-dark h6,
+.g1-dark .g1-mega,
+.g1-dark .g1-alpha,
+.g1-dark .g1-beta,
+.g1-dark .g1-gamma,
+.g1-dark .g1-delta,
+.g1-dark .g1-epsilon,
+.g1-dark .g1-zeta {
+	color: #fff;
+}
+
+
+
+.g1-dark .g1-meta { color: rgba(255, 255, 255, 0.8); }
+.g1-dark .g1-meta a { color: rgba(255, 255, 255, 1); }
+.g1-dark .entry-categories { color: rgba(255, 255, 255, 1); }
+.g1-dark .entry-categories a { color: rgba(255, 255, 255, 1); }
+.g1-dark .g1-meta a:hover { color: rgba(255, 255, 255, 1); }
+
+.g1-dark .archive-title:before {
+	color: inherit;
+}
+
+
+.g1-dark [type=input],
+.g1-dark [type=email],
+.g1-dark select {
+	border-color: rgba(255,255,255, 0.15);
+}
+
+.g1-dark [type=submit] {
+	border-color: #fff;
+	background-color: #fff;
+	color: #1a1a1a;
+}
+
+.g1-dark .g1-button-solid {
+	border-color: #fff;
+	background-color: #fff;
+	color: #1a1a1a;
+}
+
+.g1-dark .g1-button-simple,
+.g1-dark .g1-filter-pill {
+	border-color: #fff;
+	color: #fff;
+}
+
+.g1-dark .g1-newsletter-avatar {
+	background-color: #fff;
+	color: #1a1a1a;
+}
+
+
+
+	</style>
+	<link rel="icon" href="https://celebmix.com/wp-content/uploads/2020/02/cropped-2alogo2016-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://celebmix.com/wp-content/uploads/2020/02/cropped-2alogo2016-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://celebmix.com/wp-content/uploads/2020/02/cropped-2alogo2016-180x180.png" />
+<meta name="msapplication-TileImage" content="https://celebmix.com/wp-content/uploads/2020/02/cropped-2alogo2016-270x270.png" />
+	
+	</head>
+
+<body class="error404 wp-embed-responsive g1-layout-stretched g1-hoverable g1-has-mobile-logo g1-sidebar-normal" itemscope="" itemtype="http://schema.org/WebPage" >
+
+<div class="g1-body-inner">
+
+	<div id="page">
+		
+
+		
+
+					<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-a g1-hb-row-1 g1-hb-full g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+																	<!-- BEGIN .g1-secondary-nav -->
+<!-- END .g1-secondary-nav -->
+																		<nav class="g1-quick-nav g1-quick-nav-long g1-quick-nav-small-icons g1-quick-nav-without-labels">
+		<ul class="g1-quick-nav-menu">
+			                																	</ul>
+	</nav>
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+				<div class="g1-sticky-top-wrapper g1-hb-row-2">
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-b g1-hb-row-2 g1-hb-full g1-hb-sticky-on g1-hb-shadow-on">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+																	<div class="g1-id g1-id-desktop">
+			<p class="g1-mega g1-mega-1st site-title">
+	
+			<a class="g1-logo-wrapper"
+			   href="https://celebmix.com/" rel="home">
+									<picture class="g1-logo g1-logo-default">
+						<source media="(min-width: 1025px)" srcset="https://celebmix.com/wp-content/uploads/2018/01/white_trans.png 2x,https://celebmix.com/wp-content/uploads/2018/01/white_trans.png 1x">
+						<source media="(max-width: 1024px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2060%200%27%2F%3E">
+						<img
+							src="https://celebmix.com/wp-content/uploads/2018/01/white_trans.png"
+							width="60"
+							height="0"
+							alt="CelebMix" />
+					</picture>
+
+												</a>
+
+			</p>
+	
+    
+	</div>																	<!-- BEGIN .g1-primary-nav -->
+<nav id="g1-primary-nav" class="g1-primary-nav"><ul id="g1-primary-nav-menu" class="g1-primary-nav-menu g1-menu-h"><li id="menu-item-241905" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-241905"><a href="https://celebmix.com/entertainment/">Entertainment</a></li>
+<li id="menu-item-253948" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-253948"><a href="https://celebmix.com/theatre/">Theatre</a></li>
+<li id="menu-item-241909" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-241909"><a href="https://celebmix.com/music/">Music</a></li>
+<li id="menu-item-241908" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-241908"><a href="https://celebmix.com/film-tv/">Film &amp; TV</a></li>
+<li id="menu-item-241907" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-241907"><a href="https://celebmix.com/features/cares/">CelebMix Cares</a></li>
+<li id="menu-item-246595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-g1-standard menu-item-246595"><a href="https://celebmix.com/rising/">Rising</a></li>
+</ul></nav><!-- END .g1-primary-nav -->
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+																	<ul id="g1-social-icons-1" class="g1-socials-items g1-socials-items-tpl-grid g1-socials-hb-list  ">
+			<li class="g1-socials-item g1-socials-item-facebook">
+	   <a class="g1-socials-item-link" href="https://www.facebook.com/celebmix/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-facebook"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">facebook</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-twitter">
+	   <a class="g1-socials-item-link" href="https://twitter.com/celebmix" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-twitter"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">twitter</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-instagram">
+	   <a class="g1-socials-item-link" href="https://www.instagram.com/thecelebmix/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-instagram"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">instagram</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-youtube">
+	   <a class="g1-socials-item-link" href="https://www.youtube.com/CelebMix" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-youtube"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">youtube</span>
+		   </span>
+	   </a>
+	</li>
+	</ul>
+																		<div class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-the-search  g1-drop-l g1-drop-icon ">
+		<a class="g1-drop-toggle" href="https://celebmix.com/?s=">
+			<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Search</span>
+			<span class="g1-drop-toggle-arrow"></span>
+		</a>
+		<div class="g1-drop-content">
+			
+
+<div role="search" class="search-form-wrapper">
+	<form method="get"
+	      class="g1-searchform-tpl-default g1-searchform-ajax search-form"
+	      action="https://celebmix.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field"
+			       placeholder="Search &hellip;"
+			       value="" name="s"
+			       title="Search for:" />
+		</label>
+		<button class="search-submit">Search</button>
+	</form>
+
+			<div class="g1-searches g1-searches-ajax"></div>
+	</div>
+		</div>
+	</div>
+																	<nav class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-the-user  g1-drop-l g1-drop-icon ">
+
+
+	<a class="g1-drop-toggle snax-login-required" href="https://celebmix.com/wp-login.php">
+		<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Login</span>
+		<span class="g1-drop-toggle-arrow"></span>
+	</a>
+
+	
+	<div class="g1-drop-content"><ul id="menu-user" class="sub-menu"><li id="menu-item-236115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236115"><a href="https://celebmix.com/wp-login.php">Login</a></li>
+<li id="menu-item-236113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236113"><a href="https://celebmix.com/contact/">Contact</a></li>
+<li id="menu-item-236114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236114"><a href="https://celebmix.com/write-for-celebmix/">Write for Us</a></li>
+</ul></div>
+	</nav>
+																																																	</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+				</div>
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-normal g1-hb-row-c g1-hb-row-3 g1-hb-full g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+					<div class="g1-sticky-top-wrapper g1-hb-row-1">
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-a g1-hb-row-1 g1-hb-boxed g1-hb-sticky-on g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+				</div>
+				<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-b g1-hb-row-2 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+																		<a class="g1-hamburger g1-hamburger-show  " href="#">
+		<span class="g1-hamburger-icon"></span>
+			<span class="g1-hamburger-label
+						">Menu</span>
+	</a>
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-on">
+							<div class="g1-bin g1-bin-align-center">
+																	<div class="g1-id g1-id-mobile">
+			<p class="g1-mega g1-mega-1st site-title">
+	
+		<a class="g1-logo-wrapper"
+		   href="https://celebmix.com/" rel="home">
+							<picture class="g1-logo g1-logo-default">
+					<source media="(max-width: 1024px)" srcset="https://celebmix.com/wp-content/uploads/2018/01/white_trans.png">
+					<source media="(min-width: 1025px)" srcset="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2060%200%27%2F%3E">
+					<img
+						src="https://celebmix.com/wp-content/uploads/2018/01/white_trans.png"
+						width="60"
+						height="0"
+						alt="CelebMix" />
+				</picture>
+
+									</a>
+
+			</p>
+	
+    
+	</div>															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+																	<nav class="g1-drop g1-drop-with-anim g1-drop-before g1-drop-the-user  g1-drop-l g1-drop-icon ">
+
+
+	<a class="g1-drop-toggle snax-login-required" href="https://celebmix.com/wp-login.php">
+		<span class="g1-drop-toggle-icon"></span><span class="g1-drop-toggle-text">Login</span>
+		<span class="g1-drop-toggle-arrow"></span>
+	</a>
+
+	
+	<div class="g1-drop-content"><ul id="menu-user-1" class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-236115"><a href="https://celebmix.com/wp-login.php">Login</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236113"><a href="https://celebmix.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236114"><a href="https://celebmix.com/write-for-celebmix/">Write for Us</a></li>
+</ul></div>
+	</nav>
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+			<div class="g1-row g1-row-layout-page g1-hb-row g1-hb-row-mobile g1-hb-row-c g1-hb-row-3 g1-hb-boxed g1-hb-sticky-off g1-hb-shadow-off">
+			<div class="g1-row-inner">
+				<div class="g1-column g1-dropable">
+											<div class="g1-bin-1 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-left">
+															</div>
+						</div>
+											<div class="g1-bin-2 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-center">
+															</div>
+						</div>
+											<div class="g1-bin-3 g1-bin-grow-off">
+							<div class="g1-bin g1-bin-align-right">
+															</div>
+						</div>
+									</div>
+			</div>
+			<div class="g1-row-background"></div>
+		</div>
+	
+		
+		
+		
+
+	<div id="primary" class="g1-primary-max">
+		<div id="content" role="main">
+
+			<article id="post-0">
+				
+<header class="page-header page-header-01 g1-row g1-row-layout-page">
+	<div class="g1-row-inner">
+		<div class="g1-column">
+			
+							<h1 class="g1-alpha g1-alpha-2nd page-title">Ooops, sorry! We couldn't find it</h1>
+			
+							<h2 class="g1-delta g1-delta-3rd page-subtitle">You have requested a page or file which doesn't exist</h2>
+					</div>
+	</div>
+	<div class="g1-row-background">
+	</div>
+</header>
+				<div class="g1-row g1-row-layout-page g1-row-padding-l entry-content">
+					<div class="g1-row-inner">
+
+						<div class="g1-column g1-column-1of3 g1-404-search ">
+							<i class="g1-404-icon"></i>
+							<h2 class="g1-delta g1-delta-2nd"><span>Search Our Website</span></h2>							
+
+<div role="search" class="search-form-wrapper">
+	<form method="get"
+	      class="g1-searchform-tpl-default g1-searchform-ajax search-form"
+	      action="https://celebmix.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field"
+			       placeholder="Search &hellip;"
+			       value="" name="s"
+			       title="Search for:" />
+		</label>
+		<button class="search-submit">Search</button>
+	</form>
+
+			<div class="g1-searches g1-searches-ajax"></div>
+	</div>
+						</div><!-- .g1-column -->
+
+						<div class="g1-column g1-column-1of3 g1-404-report">
+							<i class="g1-404-icon"></i>
+							<h2 class="g1-delta g1-delta-2nd"><span>Report a Problem</span></h2>							<p>Please write some descriptive information about your problem, and email our <a href="mailto:%63%65l&#101;%62&#109;&#105;x&#064;%72%69gr&#097;&#103;%2e&#099;&#111;m">webmaster</a>.</p>
+						</div><!-- .g1-column -->
+
+						<div class="g1-column g1-column-1of3 g1-404-back">
+							<i class="g1-404-icon"></i>
+							<h2 class="g1-delta g1-delta-2nd"><span>Back to the Homepage</span></h2>							<p>You can also <a href="https://celebmix.com">go back to the homepage</a> and start browsing from there.</p>
+						</div>
+					</div>
+
+					<div class="g1-row-background">
+					</div>
+				</div><!-- .entry-content -->
+
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+
+		<div class="g1-footer g1-row g1-row-layout-page">
+			<div class="g1-row-inner">
+				<div class="g1-column">
+
+					<p class="g1-footer-text">2022 CelebMix</p>
+
+					
+					<nav id="g1-footer-nav" class="g1-footer-nav"><ul id="g1-footer-nav-menu" class=""><li id="menu-item-165443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165443"><a href="https://celebmix.com/contact/">Contact Us</a></li>
+<li id="menu-item-74585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-74585"><a rel="privacy-policy" href="https://celebmix.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-74733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74733"><a href="https://celebmix.com/write-for-celebmix/">Write for CelebMix</a></li>
+</ul></nav>
+					
+				</div><!-- .g1-column -->
+			</div>
+			<div class="g1-row-background">
+			</div>
+		</div><!-- .g1-row -->
+
+					<a href="#page" class="g1-back-to-top">Back to Top</a>
+						</div><!-- #page -->
+
+<div class="g1-canvas-overlay">
+</div>
+
+</div><!-- .g1-body-inner -->
+
+<div id="g1-breakpoint-desktop">
+</div>
+
+
+<div class="g1-canvas g1-canvas-global g1-canvas-no-js">
+	<div class="g1-canvas-inner">
+		<div class="g1-canvas-content">
+			<a class="g1-canvas-toggle" href="#">Close</a>
+
+				<!-- BEGIN .g1-primary-nav -->
+	<nav id="g1-canvas-primary-nav" class="g1-primary-nav"><ul id="g1-canvas-primary-nav-menu" class="g1-primary-nav-menu g1-menu-v"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241905"><a href="https://celebmix.com/entertainment/">Entertainment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-253948"><a href="https://celebmix.com/theatre/">Theatre</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241909"><a href="https://celebmix.com/music/">Music</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241908"><a href="https://celebmix.com/film-tv/">Film &amp; TV</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-241907"><a href="https://celebmix.com/features/cares/">CelebMix Cares</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-246595"><a href="https://celebmix.com/rising/">Rising</a></li>
+</ul></nav>		<!-- END .g1-primary-nav -->
+		<!-- BEGIN .g1-secondary-nav -->
+			<!-- END .g1-secondary-nav -->
+		
+			<nav class="g1-quick-nav g1-quick-nav-short g1-quick-nav-without-labels">
+			<ul class="g1-quick-nav-menu g1-menu g1-menu-v g1-menu-with-icons">
+				
+				                    
+					
+					
+					
+							</ul>
+		</nav>
+	<ul id="g1-social-icons-2" class="g1-socials-items g1-socials-items-tpl-grid">
+			<li class="g1-socials-item g1-socials-item-facebook">
+	   <a class="g1-socials-item-link" href="https://www.facebook.com/celebmix/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-facebook"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">facebook</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-twitter">
+	   <a class="g1-socials-item-link" href="https://twitter.com/celebmix" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-twitter"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">twitter</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-instagram">
+	   <a class="g1-socials-item-link" href="https://www.instagram.com/thecelebmix/" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-instagram"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">instagram</span>
+		   </span>
+	   </a>
+	</li>
+			<li class="g1-socials-item g1-socials-item-youtube">
+	   <a class="g1-socials-item-link" href="https://www.youtube.com/CelebMix" target="_blank" rel="noopener">
+		   <span class="g1-socials-item-icon g1-socials-item-icon-48 g1-socials-item-icon-text g1-socials-item-icon-youtube"></span>
+		   <span class="g1-socials-item-tooltip">
+			   <span class="g1-socials-item-tooltip-inner">youtube</span>
+		   </span>
+	   </a>
+	</li>
+	</ul>
+
+
+<div role="search" class="search-form-wrapper">
+	<form method="get"
+	      class="g1-searchform-tpl-default search-form"
+	      action="https://celebmix.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field"
+			       placeholder="Search &hellip;"
+			       value="" name="s"
+			       title="Search for:" />
+		</label>
+		<button class="search-submit">Search</button>
+	</form>
+
+	</div>
+		</div>
+							<div class="g1-canvas-background">
+			</div>
+			</div>
+</div>
+	<style type="text/css">
+		@media only screen and (max-width: 600px ) {
+			.adace-hide-on-mobile{
+				display:none !important;
+			}
+			.adace-hide-on-phone{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 601px  ) and  (max-width: 800px ){
+			.adace-hide-on-portrait{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 801px  ) and  (max-width: 960px ){
+			.adace-hide-on-landscape{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 601px  ) and  (max-width: 960px ){
+			.adace-hide-on-tablet{
+				display:none !important;
+			}
+		}
+		@media only screen and (min-width: 961px  ){
+			.adace-hide-on-desktop{
+				display:none !important;
+			}
+		}
+	</style>
+	
+<div class="adace-popup adace-popup-detector">
+	<div class="adace-popup-inner">
+		<div class="adace-detector-flag">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+				<path d="M8,0c0,2-7,2-7,2s0,6,0,8.4c0,4,7,5.2,7,5.6c0-0.4,7-1.6,7-5.6C15,8,15,2,15,2S8,2,8,0z M10.9,10.2l-0.7,0.7L8,8.7l-2.2,2.2
+	l-0.7-0.7L7.3,8L5.1,5.8l0.7-0.7L8,7.3l2.2-2.2l0.7,0.7L8.7,8L10.9,10.2z"/>
+			</svg>
+		</div>
+
+		<h2 class="adace-detector-title g1-beta g1-beta-1st">Ads suck. But we need them to power CelebMix.</h2>
+
+		<div class="adace-detector-content">We know - ads suck. But we really need them. Please consider disabling ad blocker on CelebMix - it helps us pay for server and maintenance costs.</div>
+
+		<p class="adace-detector-buttons">
+						<a  class="adace-detector-button-refresh g1-button-simple g1-button g1-button-m">Refresh</a>
+		</p>
+	</div>
+
+	<div class="adace-popup-background">
+	</div>
+</div>
+	
+	<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.</br><div class="wt-cli-ccpa-element"> <a style="color:#333333" class="wt-cli-ccpa-opt-out">Do not sell my personal information</a>.</div></div><div class="cli-bar-btn_container"><a role='button' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 10px 0px 5px">Settings</a><a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">Accept</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><link rel='stylesheet' id='g1-socials-basic-screen-css' href='https://celebmix.com/wp-content/plugins/g1-socials/css/screen-basic.min.css?ver=1.2.26' type='text/css' media='all' />
+<link rel='stylesheet' id='g1-socials-snapcode-css' href='https://celebmix.com/wp-content/plugins/g1-socials/css/snapcode.min.css?ver=1.2.26' type='text/css' media='all' />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://celebmix.com/#website","url":"https://celebmix.com/","name":"CelebMix","description":"Mixing up celebrity, music, television and film news","publisher":{"@id":"https://celebmix.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://celebmix.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://celebmix.com/#organization","name":"CelebMix","url":"https://celebmix.com/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://celebmix.com/#/schema/logo/image/","url":"https://celebmix.com/wp-content/uploads/2018/01/site.jpg","contentUrl":"https://celebmix.com/wp-content/uploads/2018/01/site.jpg","width":1000,"height":600,"caption":"CelebMix"},"image":{"@id":"https://celebmix.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/celebmix/","https://twitter.com/celebmix","https://www.instagram.com/thecelebmix/","https://www.linkedin.com/company/celebmix-co-uk","https://www.youtube.com/channel/UCczebctgcVbLxAQfICJxCJA"]}]}</script><script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/celebmix.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/a014323309532ecbc661c228f7444989-plugin/assets/js/slot-slideup.js?ver=1.3.25' id='adace-slot-slideup-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/a014323309532ecbc661c228f7444989-plugin/includes/shoppable-images/assets/js/shoppable-images-front.js?ver=1.3.25' id='shoppable-images-js-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/a014323309532ecbc661c228f7444989-plugin/assets/js/coupons.js?ver=1.3.25' id='adace-coupons-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/a014323309532ecbc661c228f7444989-plugin//includes/adblock-detector/advertisement.js?ver=1.3.25' id='adace-adijs-pot-js'></script><script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"1","ccpaRegionBased":"","ccpaBarEnabled":"1","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"ccpa_gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"1","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"1","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/celebmix.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.0.9' id='cookie-law-info-js'></script><script type='text/javascript' id='cookie-law-info-ccpa-js-extra'>
+/* <![CDATA[ */
+var ccpa_data = {"opt_out_prompt":"Do you really wish to opt out?","opt_out_confirm":"Confirm","opt_out_cancel":"Cancel"};
+/* ]]> */
+</script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/cookie-law-info/legacy/admin/modules/ccpa/assets/js/cookie-law-info-ccpa.js?ver=3.0.9' id='cookie-law-info-ccpa-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=6.1.1' id='wpp-js-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0' id='modernizr-js'></script><script>if("undefined"!=typeof localStorage){var nsfwItemId=document.getElementsByName("g1:nsfw-item-id");nsfwItemId=nsfwItemId.length>0?nsfwItemId[0].getAttribute("content"):"g1_nsfw_off",window.g1SwitchNSFW=function(e){e?(localStorage.setItem(nsfwItemId,1),document.documentElement.classList.add("g1-nsfw-off")):(localStorage.removeItem(nsfwItemId),document.documentElement.classList.remove("g1-nsfw-off"))};try{var nsfwmode=localStorage.getItem(nsfwItemId);window.g1SwitchNSFW(nsfwmode)}catch(e){}}</script><script>
+ 		!function(t){"use strict";var e;t.adi=function(n){var i=t.extend({},e.defaults,n);return new e(i)},(e=function(e){t.extend(this,e),this._check()&&(this._init(),this.active()),this._check()||this.inactive()}).prototype._check=function(){return void 0===t.adblock},e.prototype._init=function(){this._append()},e.prototype._setTemplate=function(t,e){return'<div class="jquery-adi"><div class="jquery-adi_content"><button class="jquery-adi_close"></button><h2>'+t+"</h2><p>"+e+"</p></div></div>"},e.prototype._append=function(e){this.$el=t(this._setTemplate(this.title,this.content)).appendTo(t(document.body)).addClass(this.theme),this._show()},e.prototype._show=function(){this.$el.show(),this._center(),this._controls(),this.onOpen(this.$el)},e.prototype._controls=function(){var e=this;function n(){e.$el.hide(),e.onClose(e.$el)}this.$el.on("click",".jquery-adi_close",n),t(document).on("keyup",function(t){27==t.keyCode&&n()})},e.prototype._center=function(){var t=this.$el.find(".jquery-adi_content");t.css("margin-top",-Math.abs(t.outerHeight()/2))},e.defaults={title:"Adblock detected!",content:"We noticed that you may have an Ad Blocker turned on. Please be aware that our site is best experienced with Ad Blockers turned off.",theme:"light",onOpen:function(){},onClose:function(){},active:function(){},inactive:function(){}}}(jQuery);
+
+		(function ($) {
+			"use strict";
+
+						var triggerAlert = false;
+			
+			var adblockDetectedAlert = function() {
+				$('html').addClass('adace-show-popup-detector');
+				$('.adace-detector-button-refresh').on('click', function(){
+					window.location.reload();
+				});
+				$('.adace-popup-close').on('click', function(){
+					console.log('e');
+					$('html').removeClass('adace-show-popup-detector');
+				});
+			};
+
+			$(document).ready(function () {
+				// Only when the AdBlocker is enabled this script will be available.
+				if ( typeof $.adi === 'function' ) {
+					$.adi({
+						onOpen: function (el) {
+							adblockDetectedAlert();
+						}
+					});
+				}
+
+				// Show alert on demand. AdBlocker can be disabled.
+				if (triggerAlert) {
+					adblockDetectedAlert();
+				}
+			});
+		})(jQuery);
+	</script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/stickyfill/stickyfill.min.js?ver=2.0.3' id='stickyfill-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/jquery.placeholder/placeholders.jquery.min.js?ver=4.0.1' id='jquery-placeholder-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/jquery.timeago/jquery.timeago.js?ver=1.5.2' id='jquery-timeago-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/jquery.timeago/locales/jquery.timeago.en.js' id='jquery-timeago-en-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/matchmedia/matchmedia.js' id='match-media-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/matchmedia/matchmedia.addlistener.js' id='match-media-add-listener-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/picturefill/picturefill.min.js?ver=2.3.1' id='picturefill-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/jquery.waypoints/jquery.waypoints.min.js?ver=4.0.0' id='jquery-waypoints-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2' id='enquire-js'></script><script type='text/javascript' id='bimber-global-js-extra'>
+/* <![CDATA[ */
+var bimber_front_config = {"debug_mode":"","ajax_url":"https:\/\/celebmix.com\/wp-admin\/admin-ajax.php","timeago":"on","sharebar":"off","i18n":{"menu":{"go_to":"Go to"},"newsletter":{"subscribe_mail_subject_tpl":"Check out this great article: %subject%"},"bp_profile_nav":{"more_link":"More"}},"comment_types":["wp"],"auto_load_limit":"0","auto_play_videos":"","use_gif_player":"1","setTargetBlank":"1","useWaypoints":"1","stack":"bunchy","wpp":{"token":"6434698007"}};
+/* ]]> */
+</script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/global.js?ver=9.1.1' id='bimber-global-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script><script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script><script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-04-19 10:50:11+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_GB"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script><script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script><script type='text/javascript' src='https://celebmix.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/ajax-search.js?ver=9.1.1' id='bimber-ajax-search-js'></script><script defer type='text/javascript' src='https://stats.wp.com/e-202323.js' id='jetpack-stats-js'></script><script type='text/javascript' id='jetpack-stats-js-after'>
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'91216156',post:'0',tz:'1',srv:'celebmix.com',j:'1:12.2'} ]);
+_stq.push([ "clickTrackerInit", "91216156", "0" ]);
+</script><script type='text/javascript' src='https://celebmix.com/wp-content/themes/bimber/js/back-to-top.js?ver=9.1.1' id='bimber-back-to-top-js'></script></body>
+</html>
